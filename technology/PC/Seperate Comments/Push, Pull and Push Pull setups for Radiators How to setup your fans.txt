@@ -1,0 +1,976 @@
+netflix and chill with fractal josh
+Awesome pc build! Quick question, my psu broke and I'm looking for a reliable one any recommendations?
+Just curious, in this 5k build, why only 16gb of ram. I feel like you would see 32 or even 64 in builds this expensive. Anyways great video
+Nice pc bro
+Dang that's a nice pc! And great video by the way. :)
+tfw your PC is more expensive than my car.
+My day just got so much better because you uploaded. Thank you :^)
+Nice Video!
+Push through top is quieter than push through front. Evga 280 clc in R5
+Hah! Your so thin here loool
+How come literally nobody mentions intake top radiator mount. I have my fans pulling through my top mounted radiator...
+But i think there is an important difference between front-mounted to top mounted as in your other video.
+you know most games have chat?
+awesome video learned a lot today thanks .Especially since i am going to dipping my toes into water cooling my next build AIO mind you but still water cooling none the less and now i know how to place fans and Radiators now thank you Jay !!
+Radiators are only for aio?
+skit made me want to kill myself
+Thanks for the lecture, professor TwoCents.
+He was at B the whole time tho lol
+you miss 2 wierd things: pull-pull and push-push :)
+Nice vid thanks Jay! Or should I say thank you algorithm for correctly labeling my comment as positive sentiment... that isn't spam... which would make it ham.
+Jay drives a 350, this man becomes sexier by the minute
+Thicc Radiator
+need help at B
+"push vs pull doesn't matter", except when you're pulling cool air from the room through one radiator, and pushing hot air from inside the case through the other... Not clicking anymore videos by this dude, the annoying talking was bad enough, like just get to the point! This is just stupid, though.
+Suck or Blow, that is the question...
+Am I able to just have one fan pushing air thru the radiator or do I have to have two fans on the radiator?
+Im gonna wear my socks to bed tonight.
+Front and top are both pulling with me Everthing is watercooled They suck all the hot air out And dust stays away from pc and radiator
+you earned that sub with the intro.. +1
+Hi from 2018
+This is why you use the NATO Phonetic Alphabet. It's BRAVO.
+Man this guy was a savage back then
+Hi. The only problem is that for pull mode the cooling fan will be heated by the hot air from inside the box ;), and in time....
+VIDEO STARTS AT 0:2:08...save yourself the sappy intro!
+can i still use front pull fans radiotors as i already have 3case fans in front? im using a segotep lux3 case
+Can someone help me out? I'm building my first pc tomorrow and I want to go with a front mounted 360 rad but should I have the fans pushing or pulling? I was thinking pushing so I could see the 3 rgb fans from the front of my case (front tempered glass) but idk if I should have them pull I'm confused all advice is greatly appreciated
+You could just flip the fans and covert from push to pull or vice versa. Then you can still keep the radiator where it’s at to meet your aesthetic needs.
+Thanks man. For a minute there I was thinking that I put my fans incorrectly in my new build ??
+so how to mount 120 radiator in back
+I'm a newer subscriber to this channel, so many of your videos I've watched very out of date and out of order. I know this is a way older video. Have you done something comparing Push/Push with rads vs. Pull/Pull? As i have seen from Linus, which makes sense is that the pull config makes clearing out dust much easier than having to take the fan off the rad to clear out dust, but does this make a difference other than temps due to built up dust, and does it make cleaning much easier?
+what is up with yo Mug????=???????
+Nice videos, been on your channel a lot recently. I'm planning my first build, and I'm doing all my homework prior to submitting my orders. I was wondering, on a front mounted radiator would it be beneficial to push air out with the top fan and pull air in with the bottom fan? I'm basing this off the idea that hot air rises and the coolest air intake would be at the lowest point. I'm using the Fractal design nano s case, so the front is vented with a dust filter in between, and I plan on leaving the top side of case vented with a dust filter.
+4:25 Fan configuration in case
+waaht? waaht?
+I guess the only time you might get a difference between push and pull is if either the fans don't seal completely against the radiator so you either get air leakage with push instead of it going through the radiator in pull where its pulling air from the case rather than through the rad. you also might get different air flow characteristics with cases that try to cater for all possible fan configurations and therefore have huge holes around the size being used as these often end up just circulating air inside the case especially with cases that have resistive inlets for the air like the NZXT base 630 So personally I use a sheet of thin acoustic foam which I spray glue to the case to block up the extra holes around the fans so that the ONLY way air can get through those fans is through holes the exact same size as the fans as its a nice cheap way to control air flow paths in cases that cater for a huge variety of cooling choices with 2 or 3 fans of different diameters if that makes sense
+But he was wearing a headset
+How can he decide to pull or push air just twisting the fans? Are they made for two way installation? The arctic cooling case fan F12 PWM PST CO is able to do it but im confused. Can you just change the pull push just by changing the fan side?
+so pull/pull doesn't improve cooling really but adds a lot of noise and uses a bunch of space?
+Great breakdown, very helpful
+PS never push, push your fans.
+Loving the add in the beginning
+THICC
+Boom knowledge bomb
+Creepy grin intro ??????????????
+I think this is pretty miss leading. You ever do that thing in high school where you try to suck water up a really tall straw and you can't do it. Or wonder why well pumps are located at the bottom of wells and not just at the top. It's physics you can never actually pull something. You're pushing the air creating a vacuum and then the atmosphere pushes air through the radiator to resolve the vacuum in between the radiator and the fans. It may not make a huge difference in these really low pressure computer fans but it is always better to push if at all possible.
+Came here looking for the answer at 5:06. Thank you :D
+Just realized Jay shaved his hairline back in this video... Weird.
+Isn’t pushing the hot radiator air into the case bad? I thought you always wanted air from the coolers to be pushed out.
+I had push/push for my FX 9590 Radiator. Always make sure your fans are facing the correct direction.
+You can't push air, because it compresses. You can, however, pull air.
+What about push and pull both a normal rpm on 30mm
+High static pressure fans..?? Well Jay... an Axial fan is really not a High static pressure fan. Axials are not Pressure efficient by nature. But with a stronger fan motor, it will be better suited to work though the pressure load/drop that a radiator has. So these are normally fast and noisy if used as Case fans. As opposite. A low RPM/Silent and weak-motered 1000RPM "case" fan, will fight a loosing battle, if placed on a radiator For maximizing the airflow through the radiator. Use strong motor fans and No gaps between fan housing and radiator. (Seal any gaps on the side)
+HAHA LOVE THE ARNOLD! GET TO THA CHOPPA!
+So just to clarify. I can mount my radiator in the front and have the fans mounted on the back to have the fans exposed for while pulling air? This won’t affect performance? Because on PC Part Picker, the builds I see that have front mounted radiators have the fan then the radiator. Which results in the fans being covered by the radiator. I want the fans to be exposed in the front while pulling air but literally every build I see, people do the opposite by mounting the fans onto the case then mounting the rad on the fans for pull configuration.
+god i love how sassy you are hahah
+I FRICKING LOVE THIS INTRO!!!!!!!!!!!!!!!!!!!!!!!!! JAYZ YOUR AWESOME
+You two are dorks. In a good way
+I've got push pull on my h100 v2 :)
+damn son that skyline is richness
+Jayz you just made an oreo with that push pull config. Your. either brilliant or lucky but anyways +1like just for it
+Would a Push & Pull FAN configuration on the AIO provide more static pressure = better cooling?
+I wanted to know how case temp is affected by pulling air inside through radiator, not what the words mean :(
+Nostalgic
+Here's a question. I have 8 fans in my water cooling rig with 3 of them at 120mm mounted on my radiator using a push config. Should they run at 12v or 7v when connected.
+i hope you have a new barber now.... love your videos dude
+Can I put 2 fans without a radiator
+I'm gonna call you johnna hill because this video is old and you're like 150 pounds look great! :)
+Urgh, how can you run a glossy monitor...
+I need help at B ... lol
+8:10 A TON OF THICCCCCCCCCNESS!
+Interesting..i have a lian li pc 08 case and i want to instal a 360 radiator on the front and a 240 radiator on the top..what configuration do you recommend me to use for each radiators? How radiator use to push and how to pull? Thanks for help me with my buid
+My case has slot for 120mm fans, it I got 140mm... don’t know what to do...
+Cheers Jay
+"Something appears to have changed." I run pull on my front mounted AIO in my A10-7870k SFF build for maintenance and appearance. I can easily reach the fans from the inside if I need to take them down for any reason at all, and I can reach the rad from the outside for cleaning. Plus you can't see the branding on the side of the rad, but you can see the fans, from the view window. If I take the front cover off, the rad's right there, giving the system a neat industrial look. My build can run in partial passive mode, using only my single case fan to keep it cool (35c) at desktop and light loads, but peeking into the side of the case lets me see if the fans are running or if one has stopped for some reason. (I had to take one offline for repairs.) .... Guys, why are you staring at me like that?
+5:32 Allah the radiator
+ok, so now if you install one fan in push and the other in pull on a 240-280 rad would temp deviate from if you just do both push, pull, or push/pull?
+I have a noobish question, I have a 6 fan configuration on three 120mm radiators that when finished, will provide solid positive pressure into my build. Right now I only have two radiators in and before I install the third, I wanna find the best way to provide power to those fans considering I only have 2 fan ports on my motherboard. I saw you can use a molex adapter with multiple three pin splits, but is that wise to that? Will it effect my motherboard running 3 more fans off of one 3 pin fan Port?
+every fucking video you got has 30s advert on it, why ? you wanna get rich quick or something ? please stop this, its a real put off
+Great video. Thank you.
+You are boring
+hand+skin = flapping
+didn't mention one thing... should the rad fan blow hot air out, or suck cool air in? Regardless of push and/or pull setup, you still have that option, hot air out, or cold air in?
+You did a perfect job of explaining the concepts. I was really confused about push and pull configuration.
+In my experience, using the push method lowered my idle CPU temps from 40c to 27c.
+Jay, your videos are SOOOOOOO appreciated. I have no problem at all following along with your logic. Don't ever stop making videos dude. Seriously.
+A more detailed airflow with smoke would be appreciated, thanks in Advance
+What about stacking the rads in a push pull configuration would you get the same airflow? Not that I’m running that more less just curious
+Okay, so I understand the concept of push-pull better now but it makes me wonder how much temp difference are we looking at in a push-pull configuration if the fans are A.) high static pressure fans, and B.) running full speed.
+#teampull
+that ad at the beginning was hilarious haha
+I stand on pull side more.. like in car.. fan is behind radiator, pulling air trough.. vacuum on fan side and fresh air coming in directly trough radiator first.. pushing air kind of creating resistance and high pressure area between fan and radiator.
+What if you have a push-push (or pull-pull) config, so fan-fan-rad instead of fan-rad-fan like in push-pull? Does it improve the rad cooling/airflow inside the case in any way?
+whats the reccomended rpm for radiator fans when the radiator is on the top of the case pushing air out of the case? My current fans only run at 1500rpm
+Jay what the fuck? You're saying that without fans rads will do nothing, but in the earlier vid where you talked about radiator basics, you said - and it's almost a quote - that rads have plenty of cooling capacity by themselves and even without fans they can offer better cooling than air cooling. So which one is actually the truth?
+Gotta love the condescending attitude
+Hello Jay, could you help out? Running a nzxt CPU cooler and a gigabyte water force in a phanteks pro m case. seems like mounting the CPU on the front would be fine with a push pull and then just mounting the gpu radiator in the back? Then moving the fans that came with the case to top and have them pull. Would you change that in any way?
+I understand that push or pull won't really make a difference, and push and pull only helps if your fans don't create a static pressure, but surely it matters if you are forcing the air(thus heat) into your case as opposed to out.
+I prefer pull ONLY because it keeps the radiator exposed so it's easier to clean the dust off of it.
+using a 240mm radiator thats 30mm thick, could i have a single 120mm fan between the case and the radiator and then 2 120s on the inside of the case? i have one extra fan and im trying to put it to use.
+@JayzTwoCents FYI there are fan splitter cables that allow the PWM line to go to up to 5 fans while the power for said fans can be handled separately by a MOLEX connector from the PSU. This is helpful if you are running many fans or extremely high powered fans and don't want to burn put the fan headers on your motherboard. (Most motherboards can only handle 1 amp of power total as you said in your video.)
+you never finished this build. I want to c this build!!!
+I'm still going with the push-pull config, i don't think thickness will be much of an issue with a Full-Tower ATX case.
+i had a radiator without fan for a while... two months, yes its my first pc build
+So if I'm building in an S340, should I have two SP120 fans in the front, and two AF120s exhausting in the back and top?
+this whole push pull thing gives me a headache... I think i'll just stick with air cooling and figure out how to promote positive pressure instead of water cooling.. (nothing against people who water cool, I just think it's not for me)
+could you do a push push?
+What is the reference for your forehead line ?
+you could make a simple U shaped tube with water with one end inside the case to show airflow inside the case
+surprised no one is using aluminum.
+thanks for this video. I am just starting a build and fans are more confusing than the build itself. ??
+noctis 450 perfect case for push pull config on top
+Wearing headphones but still can't hear because of how loud the fans are... I feel bad for the neighbors. LOL ;-)
+awesome intro lol
+You got my like just for the stupid intro :-)
+In the beginning, the way he talks and his hairs make him look like the younger version of the giant from Twin Peaks :D
+Oh my god that first scene tho xD Thumbs up for that! xD
+I'm digging this back up from the dead. Jay, I've read some people saying that having a static pressure as push and an airflow fan as pull will give better results than using all static pressure. You ever try this?
+Umm you made an Oreo Sandwich bro , no one makes more on screen innuendo's with PC hardware than you Jay!
+(allah the radiator) 5:31
+I like how you integrate your ads, making a fun skit out of them.
+how to setup 2 radiators? so one radiator for the cpu and the other one is for what? where do you mount it on?
+But how can you put it in the bottom?? do Radiator fans not need vents??
+You are the most creative advertising Youtuber I've seen so far...
+I assume that putting a 2 push fans in the roof of the case is actually smarter, because the pull fans are pulling a cold air, which gets warm because it flows through the pc. hot air is floating up (just like hot balloon flies bacause of hot air floating) so putting them up in the case is avtually smarter and not just an aesthetic choice, i guess...
+I have a captain 240ex mounted on the top of my case I want to mount rgb fans on it and I cant decide if its better to put the fans above the radiator and if I should have them push the air through the radiator into the case or have them pull the air through the radiator out of the case
+im glad i have finally found a guy what could explain this properly. Im a novice in liquid cooling because i always used standard air cooling. I have bought the Kraken X62 for my new rig but need help how to install it. Thanks Jay
+Perfect explanation, the best I have seen so far. Thanks!
+do radiator fan gaskets make a difference?
+i was gonna use 4 120mm corsair rgb fans for my radiator. i hear rgb fans are normally bad for this?
+Dude, you NEED to do all the Arnie-voices in every movie he ever made :D
+Okay but if I run push pull on a h100 V2 and still keep the rpms high. Will i Acheive lower temps then the push configuration I have now?
+i thought linus tech tips covered this and concluded anything more than 2 fans is just wasting $...
+why do you want to bring the heat inside the case when youre trying to get heat out???? Duh
+This helped
+really hot where you live? how much hot is it?
+On the radiator up top, don't the fans basically exhaust the hot air from inside the case into the radiator? just curious :D
+what case is that ?
+Hi, I just got the mastercase maker 5 case and like to replace the fans with the noctua 2000rpm (black one). Do you think it's a good idea ? or if the noctua is compatible with the case.
+But what if I wanted to stick my cock in a radiator? Would a push configuration work better than pulling?
+I'll save you all some time. The BEST fans for watercooling are the corsair SP120 or AF140 depending on which size you need. They offer the best static pressure and fan speed (1200+) but they are noisy as hell. I have 24 of them in my case so I should know. Just buy a pair of noise cancelling headphonea and your all good.
+What is your favorite high static pressure fan for radiators? I have a kraken x62
+Linus did a video, showing that a pull helps less dust on the radiator, plus easier to clean.
+Can I use a dueal pull config? (on one radiator)
+Do a demo.
+Wanna see the 3 intake 5 exhaust fan video with smoke. Please. BTW Love the vidz keep it up and gratz on 1 million subs.
+Basically, Pull= intake Push= exhaust i always go with pull for pulling in cool air from outside the case, keeps the CPU a little cooler
+on my define r5 the push side is hidden so push/pull isn't that bad with a front radiator.
+Come with me if you want to live
+Linus Tech Tips won to you by... let's say... 3 years?
+The advertisement is just LOL
+what case is that
+If I have 3x120mm fans and 3 more for a 360mm radiator pulling air in the case and only one 120mm pushing air out, is the air pressure too positive, or is it fine depending on how many vents my case has?
+Would it not be worth mentioning that with pull you get better airflow inside the case than with push? When I changed from Pull to Push my CPU went from +47 under load to as high as +60C. Same game, same settings, same starting environmental variables. The ambient temperature also went up quite a lot inside the case, and the airflow was completely ruined. With pull I had a streamlined airflow from front to back. With push I had multiple vortexes in the front and normal exhaust in the back. I even tried push/pull, just regular pull still works better.
+how can you hear the jet engine fans if you're on headphones???
+what is the best Watercooling Case for 280$?
+Very interresting, thanks !
+Logan? Jay you sounds like Schwarzenegger
+Why does it seem to you that everybody is stupid?
+what cooler u recommend for an i7-7700K?
+why do you need a radioator in a pc case ? i live in the hottest city in brazil, and i'm puzzled by this
+I've heard pull is better, simply from a dust standpoint; when you go to clean the dust it mostly be on the side without the fans, not sandwiched in-between the fans and radiator.
+just my two cents. cleaning and keeping a radiator with a push / pull or just push is a real pain. what are your thoughts on stacking in the pull configuration?
+You looked fucking psychotic when he opened the door lol. You could be the killer in a horror movie. Lol
+racist xD
+i learn something every time i watch a show of your's .
+good video
+I see that you're only using SP fans, and not AF fans? nor in front. And is it good idea to use AF fans in front? thanks.
+Pull is best if your not using push/pull. Push builds way too much dust in the radiator and thus hinders cooling. In push/pull you will want to adjust your fan speed to compensate for fan resistance against one another rpm wise . Keep your pulll slightly faster.. Problem really is in the design of the radiators.
+Jay. I have a question I need your help with. I just got a EKWB EK-XLC Predator 240 1.1 for my pc. I also got the add-on fan kit for it for push/pull from EKWB. Right now, I can't lift my pc to find out on my own due to a left ankle complex fracture, dislocation, 5 metal plates and screws holding it all in place. My case is a NZXT Phantom 820 and my motherboard is a Asus Maximus VIII Hero. Can I run push/pull in it with the Predator 240? Reason I ask is the Predator 240 is setup different from my current Arctic Liquid Freezer 240 where the top 2 fans fit on the top outer part of the case, where as with the Predator 240 all 4 fans and the radiator will be in the case above the motherboard. I really wanted the Predator 240 for being able to change the fluid when needed and expand it to a video card downthe road. I won't be able to lift my pc for at least 2 more month's to figure this out on my own. Right now I'm just getting all my upgrade parts I want, so they're ready to go when I can lift and work inside my pc again. I'm down to my last 2 upgrades, as both my ssd's won't fit all my games. I have 2 Samsung 850 EVO 1.0TB ssd's left to get. I'm going with them, as I can't afford the Samsung 9**'s for the size I need and one is going to be m.2 and I'd need some adaptor from Asus to use the newer u.2 or whatever format, as my board just has the first m.2 slots used.
+wtf is that intro, i died laughing for some reason.
+Quick question Jayz, if I have a R9 295x2, which has a 120mm radiator, everyone has been talking about push, pull & push + pull. what if I want to pull + pull configuration which will be same hight as push pull? will the cooling be different?
+is the h80i v2 good enough for the i7 7700k to overclock and where would i mount it on corsair spec 03 case
+Lol, I like how telephones don't exist in the intro ad. ;D
+shouldn't you try and keep positive pressure inside your rig to keep some dust out
+I dont even watercool but it seems pretty straight forward to me. Push the air out of the case rather than into the case. Unless you can do both.
+I'm not looking at this for computers since it BARELY matters but with car radiators I assume a small difference would be much more important since I live in Florida but I can't find any videos on the topic regarding cars
+Surely if you use radiator fans to suck air into the case you are blowing hot air onto key components, surely it's better to use radiator fans as exhausts, and fit clear fans as intakes, ensuring hot air leaves quickly and is replaced with cool air.
+you said that positive pressure should be created but then you said you usually choose push config, doesn't push mean create negative pressure?
+I always go pull on radiator for reason of cleaning push alot of dust gets on the radiator pull gets hardly any but like the video said hardly any difference
+liked for the fan ad.
+jay why should using push or pull setup effect the aesthetics ?! can't we just flip over the fan in order to changing push to pull (or vice versa)instead of moving the fan to the other side of radiator? that way with the fans inside the rads we can do either push or pull on every location just by flipping over the fans...
+Can i put a normal fan in front, pushing, the radiator then a high static pressure fans pulling?
+i died at the intro... thanks for the vid... my fans were all over the place... fast build, no planing :-O lols
+Ok, so weird question. I plan on getting the 460x case and really didn't want to change out the front fans, as it is a nice aesthetic. I also didn't want to top mount my radiator for three reasons, first being that you cant use high profile ram if you top mount it, as the case isn't tall enough, secondly the magnetic filter on the top of the case restricts flow a lot more than the normal filter in the front, lastly, I saw a couple of videos explaining that pulling fresh air from the front of the case has about a 10 degree difference, so I want to front mount it. Unfortunately the front fans only push at 1400 rpm, while the h100i v2 fans push or pull at 2450 rpm. Is this going to cause significant problems if I went with a push/pull configuration using different rpm fans? I checked a few forums that dint have very concrete answers, also I couldn't find anything on youtube. It would be greatly appreciated if anyone had an answer.
+It is sad how many of you are idiots where he has to explain things in such childish terms for you twats to understand.
+Jay likes his case to be all fung shui
+just skip to 4:20 those 4:20 costed me some brain cells
+3:50 instead of moving the the fan to the other side of the radiator you should have focused on explaining which side of the fan makes it push configuration and which side makes it pull configuration that would make it easier for many beginners to understand.
+So the temps were literally higher in front mounted position but aren't going to immediately hurt the computer. Got it. Duh.
+keep up the great work as always. alwsys learning from ur videos.
+on a 240mm radiator. with both of the fans on the same side, can you do one fan pushing and the other fan pulling? for a neutral air pressure balance
+Wouldn't adding a radiator to the top of your case cause hot air to run through it and in turn cause the system to run hotter?
+With proper static fans, do you 'really' need push/pull? Seems like with the proper fans, PULL is good enough.
+Schwarzenegger style yes
+I need help reducing dust on my case I have Deepcool Captain 240 EX and a Phanteks Eclipse p400 All the fans are occupied Top and back are all exhaust (All 3 fans are now PWM) Front Rads are Intake (Deepcool Captain PWM fans waterblock is not PWM) I have setup fan speeds on my Asus B85M-Pro Front are 40 - 100 percent fan curve Exhaust fans are DC mode since their not PWM (0 RPM when below 45c, 50% when 45 and up) Is this fine? I need some suggestions.
+Pull makes less noise.
+and this is why you use the Military alphabet to not have that problem ;)
+right on the money man!
+that intro tho XDDDD
+omg look at his poor arm xD so much wasted skin xD
+I thought that pushpull was for 2 fan radiators, and there were only 2 fans both opisutly flipped
+I'm very new to pc building and before you explained push pull I assumed that you'd actually have both fans on the same side of the radiator but with different orientations. As opposed to opposite sides of the radiator but with the same orientation. One point that I feel the big boy pc builders such as JayzTwoCents/Bitwit to name a couple here on youtube are not touching on (or me simply failing to find a relevant video) is whether to use radiator fans as exhausts or intakes. Don't confuse this with push/pull configurations explained in this video; for example a fan can be used to push air into the radiator and out of the case acting as an exhaust (such as the top radiator in this clip) but it can also be used to push air into the radiator and into the case acting as an intake (as opposed to pulling from the radiator and into the case which is what the fans on the front radiator are doing in this clip). The same logic applies to pull-intake/pull-exhaust/push-pull-intake/push-pull-exhaust configurations. My concern with the exhaust/intake business is the effect of the radiator on other components in the case. In an exhaust configuration you'd be attempting to cool the liquid in the radiator with whatever air you have in your case, if that air is already too hot due to a component other than what the radiator is trying to cool, then you're just adding fuel to the fire. In an intake configuration the cold air entering the case will be heated by the radiator, causing ALL your components, INCLUDING the one you're trying to cool to be exposed to the hot air produced by the component you're trying to cool. For those reasons I feel an external radiator would be the most effective. I understand that the inefficiency component of a radiator is what doesn't allow this to happen. TLDR neither exhaust nor intake configurations make enough sense to me. PLZ help explain JayZ
+Yes, please! A how-to on case air flow using smoke and radiators would be most enlightening!
+if we run fans at full speed at all the time by connecting them to psu then the performance won't be affected right? as the heat can exit through the fins of the radiater
+Informative content starts at 5:10
+I would argue that a push configuration is better for the longevity of the fans in the long term because the air going through the fan is always colder than if it was pulling warm air out. This might extend the life of the fan before it fails.
+Are there companies out there that will make custom radiators? like if I wanted a hexagon/honeycomb fin pattern could that be done somewhere?
+I liked the video... for the sponsor...
+This was a really good and well made video
+Why is you using airflow fans for the radiator, not static pressure one?
+Please please get something other than xxr's. if you have then yay! Good video though, never knew push/pull was about the same performance wise.
+Tek syndicate is dead.
+what case is that
+Well that advertisement was golden.
+from your setup your heating the air MORE buy pulling air across the front radiators into the case. wouldnt it be better to get cool air into the case and then push or pull it OUT of the case ?! (but not through a radiator)
+what keyboard is that?
+Jay, you lost more weight? Looking good! #nohomo
+A note, the PWM standard allow the control of LOTS of fans per header, so if you use a cable or breakout box that draws power from something like a Molex or SATA, but passes through a PWM signal you could run as many fans as you like off a single header (and indeed this can be a neat looking way to do things for cable management). The tachometer line is optional, and in theory shouldn't matter since all fans that comply with the standard will not over RPM even at 100% duty cycle (indeed this is the effective running state when the PWM line is not connected), although I have found some cheap fans may "tick" or otherwise adversely behave at the lower duty cycles despite the standard calling for all fans to work at the minimum, so if different fans are used I'd recommend connecting it to the slowest. The downside of doing this is you have less zones in which you can control speed independently, but using 1 header per watercooling loop is generally fine, as its cooling the same fluid, although 2 may be useful if minium RPM is a binding constraint (thus turn half the fans off at low load).
+your buddy is great in every video I have seen him in
+thank you,!!! greetings from Brazil !!
+Your videos are always informative, even for someone who's been building pcs for awhile.
+When front mounting a rad does it matter if the barbs/inlet outlet are on the bottom or top?
+nice intro
+best intro ever
+Hey i'm planning on getting a Corsair Obsidian 750D and use a Corsair H110i for CPU cooling. What configuration do you suggest? I was planning on using it as a push - exhaust fan (2x140)
+Old video I know but I wanna throw something into the equation for people who are lazy, like me for example. Pulling fans tend to collect less dust because they pull it out through the radiator and putting it straight outta the case instead of pushing it against the radiator and making it stick there. Also thank you Jay for making a video that I can copy and paste over and over again when I´m getting asked these kind of questions.
+takes a shot everytime he says THICC ;D
+Thank you Jay!!!...I'm so glad I found your channel, you've taught me so much and I can't wait to get started on my PC build.
+does this apply the same if you were to just be using an AIO cpu cooler?
+Video starts at 2:08
+do you need radiators?
+radiator for WHAT??
+So what is the purpose of having a radiator on the front intake? The way I understand it, the intake is pulling in cooler ambient air that doesnt need the radiator to dissipate heat. What am I missing here?
+Great video. It helped me a lot! Thank you. I have just finished my Corsair C70 Military build! So i went for 2 Noctua F12's on the front pulling air into the PC through the storage compartment (super quiet fans running at 1500rpm - it sucks in my 420 smoke!). 2 AF 140's on the top pushing air out of the case, running @ around 1000RPM each (again, very quiet fans and move a lot of air). On the rear I have my MSI Dragon 120mm Radiator with a Corsair SP120 pushing air through the rad and out the back of the case. It's worth mentioning my MSI Dragon Liquid Cooler is 18 months old (from a prev build) and still going strong. Obviously it's a good one, it's made by Asetek!! The pump is running at top speed (silent 1590RPM) and the SP120 @ around 2000RPM (super quiet). FX-8350 (stock speed 4.0Ghz) i am getting Idle temps of 18c-23c depending on weather and I haven't seen it go above 44c under full load (I play GTA V at 2k 60fps for hours on end!). So thanks again for making a great video, and hope my comment can help some folks out.
+mad car
+Master of watercooling, can you help me? I just got a H90 from a friend. The problem is that I have an Haf 922 and the only places for an 140 fun is the bottom or the front, it would be a huge mistake if I let it on the bottom? would the air stay on the pump?
+Oh come on... what about push - push or pull - pull? Good info and all... but to make it complete, I would have addressed making sure not to make your fans work against each other. Breaking it down so much means there will be those doing this for the first time and could make that mistake.
+Hello- I'm waiting for some parts for a new build to arrive and am wondering everyone's opinion regarding fan configuration for my rig. Case: Corsair 400C CPU Cooling: Corsair H100i V2 GPU: EVGA 1080 Hybrid (shown in vid above) I plan to do a push/pull config for my cpu & gpu radiator's and because of the smaller overhead vs motherboard/ram height I would place both radiators in the front of the case as intake. As a side note I plan to remove the mechanical hd bay as I am doing a SSD only build. So I guess what I want to know is what do you think, and what would you do?
+That fan commercial cracks me up every time I see it
+This was one of the most useful video's I've found for water cooling, I have decided for my Case labs Mercury S8 case to do a 280 mm push pull on the front but really quiet fans, this is my overall goal. Thanks again for the great video Jay
+whats the best method for the dust? pull or push?
+Thanks.  lengthily but informative.  thanks.  I'm going to pull off the cpu and push the air out the back trying to balance.  Thanks again.  Sorry I couldn't watch the entire thing.  Time constraint.
+10:42 aproxx. if have a case that has a bump(a small curvuature on whe the place that is for the fan what can you do with it) ant want to install a 2 fun water coling system push pull like the nepton 120 xl what can i do? please help
+So i have my fans on the outside pushing air through my radiator, into the case, and then i have a 140mm fan in the front of my case pushing air to the 120mm fan on the back of my case which is pulling air out of the case... Does this sound like a good setup? Or should I have the fans on the inside of the case, pushing the air through the radiator, outside of the case?
+lol , great vid
+There actually is a difference between pushing and pulling through a resistance. But it is probably negligible in this context. We did some testing on this in college for designing a wind tunnel. Basically, if you are pushing air through a radiator, the air is turbulent as it goes through. This means the turbulent air has to straighten out and loses more energy in the process. However, when you are pulling air THROUGH a radiator, the air is starting from rest, so can be pulled in any direction it needs to, and the flow would be laminar. This is also another good reason to pull air through filters, rather than push. Besides protecting the fan from dust, it is easier to pull through a filter than to push through it. At least in close range.
+ok, I've got Corsair Carbide 600Q case, with Corsair H115i cooler mounted to the floor with fans as pull just because its easier to clean when it gets dirty (it wont that much thanks to filters), then I was thinking "ok the radiator is going to limit the flow so i need to improve it and somewhat force it" so the 3 fans that came with case are working as exhaust, two at front one at back to force more chaos air circulation. good way of thinking?
+My case has two intake 120mm fans, two 120mm on top, one 120mm on the back and another 120mm on the botton. I'll buy an Corsair H80i GT. I'd like to install the radiator on the upper spot on the front. Push and pull taking the air from outside to inside the case. Is that ok? Case is and Raidmax Viper GX.
+what kind of car is that?
+I've had all my Radiators in a pull method for a couple reasons. 1st would be due to clearance size from a specific and having the fans to close to cabling or motherboard. 2nd Since I live in Cali and it's a dust bowl these days, I've noticed the fans do not clog up with dirt/dust as if they were underneath the Radiator. but it's all about preference and fan case fan configurations. Great Vid!
+Let's say he does the 11 fan method lol... Would that be quieter since they're not running super hard or...
+can you try push push and pull pull just for shits and giggles?
+would noctua fans be good for radiators?
+your triceps scare me
+Setup. Set up. Same thing, right?
+do ek Radiators come with Fans?
+I got an 38mm radiator (Arctic Liquid Freezer 240) and would really like to remove my 2 fans on top of my Zalman Z11 case, currently pushing out through the radiator to the very top of my case, over the radiator and pull air out like this. Would that make sense? And should I rather use my Corsair Fans with high static pressure or normal airflow fans to pull out the air? Thanks a lot for help. (and sorry for my english:D)
+Haha adds like these are good.
+????? ????
+I love the ads you make.
+The ad was awesome haha
+Oo TT <3
+I didn't quite understand, if i use push-pull setup will it make a better cooling for a radiator, under same conditions as with push or pull setup?
+Wouldn't having a pull on the front just pump the warm air from the front radiator back onto the components?
+IMO always install in pull if possible. Easier to clean.
+whats the big deal about push pull, no need to study that right? I push cold air to the radiator or the heatsink of aircooling solutions and I pull warm air away from the rediator or rtl the aircooling block. but I guess thats the reason why I only recommend to mound the pull fans out of the case. the warm air then gets where its supposed to be, out of the computer into the room. otherways warm air gets blown into the case, no good deal, gnomsayn..
+Saw that mint 350, subbed.
+yesss yesss do a video explaining it with smoke!!
+Hi :) What is the white case in the back called?
+What do I do if I have no vents for a fan on the top of my case???
+Jay,I'm sure that this is a stupid question, but have you ever heard of anybody using "mercury" as a liquid in a closed loop?  I saw a black and mostly silver build that looked like that was what they did.  It's on the EK website.  I'm guessing no, but I wanted to get your opinion.
++JayzTwoCents you will receive this a lot, but I cannot seem to find a definitive explanation. I am running an i7-6700k & gtx 1080 and doing a custom loop. I am aiming for an ultra quiet setup that is also capable of taking care of the heat when pushed. I am therefore looking at two 480mm 45mm or 60mm thick radiators to maximise my heat dissipation area, whilst maintaining an rpm as low as possible - from off, to 500-750rpm and then higher as needed. the trouble I'm having is rpm vs dB vs push/pull vs push & pull. doing push & pull increases the noise fan at the same rpm by about 3dB from what I've read, but what I can't tell is if i would save more than 3dB by maintaining a sub 750rpm speed for longer whilst achieving the same or lower temps. e.g. if i target 70° on the GPU, it could take say 1250rpm on just push, but 650rpm on push pull for the same result, which ought to be quieter. before I go buying 16 fans though, would be good to get your input if possible because no tests and data I've read/watched so far seem to cover this area of watercooling.
+Could you use a radiator for intake, and would it make a difference?
+Really quick please, im about to install mine. If im mounting my fan/radiator of the back of my tower. Starting from the back, it goes casing, fan, radiator, fan. MY QUESTION IS... what position does my radiator tubes (that hold the water) have to be? I am replacing the fan and forgot to look before i took it out. Does it matter if the tubes are on the top, side, bottom? i dont know how the water flows through these things. please please help. thank u sir
+Thanks, great information. I built a custom loop a few years ago, and I just started a new build with Corsair's H115i AiO because I wanted to keep it simpler. Essentially, I'm hearing you say that there is marginal difference between push configs vs pull configs when it comes to temp. I always thought pull was more effective than push using fans with high static pressure. Do you think I'd benefit from push-pull on their rad if I've got the room? Would it be overkill? Thanks for the vid. Edit: Should mention that I picked up two Noctua NF-A14 3000RPM to replace Corsair's fans. I was going to use all four unless I don't have the space or it isn't necessary for the rad's fin density.
+???????? ????? ? ???? ?????? ?
+Normaly i dont realy like ad but if i watch ur videos its just funny ^^
+How can you tell the top/bottom of the radiator? Im looking to do a push config and it wont heat my other parts because im putting it at the front, where air filters and stuff are (corsair 400c)
+for 980ti sli im wanting a 480mm x 80mm rad but what configuration would be best suitable for quiet but affective running
+That Fairlady Z
+Watched for 1m 30, talks about "something new", his friend not hearing him on game chat and his new t-shirt from his sponsor... be nice, if he actually talked about fans, am off to find a more useful video.
+really like your simple and easy to get explanations. helps beginners like myself a lot. thank you.
+what case is that?
+does this only apply to water cooling radiators? how about cpu air cooler?
+Great channel jay! It would be great for you to do a video about positive pressure, maybe you could also give some tips about keeping computers dust free? I have heard the positive pressure helps out a lot
+A pull configuration on the front could raise the air temperature on the inside, am I right?
+Aesthetically it may look weird but why not attach the rad(s) on the outside of the case (more holes)? I'm guessing you shouldn't mount your rads upside down (inside or outside) because the pump would need to work harder against gravity? What's better mounting the pump to push or pull, also before, after or farthest away from the reservoir (between reservoir and rad)?
+How do push/pull configurations screw together?
+Easily the most informative video about fan configurations. Thanks!
+Thanks a lot. this vid explained what i needed to know.
+Or turn up the volume in the headphones...
+This made more sense than anything I've seen or read to date. My installation is rather simple.... an H1001 v2 for cpu cooling only, in a simply cavernous Fractal design R5.
+When, or rather, if, you do make shirts PLEASE let us know...I would happily wear it to next LAN!! Love your videos, Arial
+Itd be nice if you stated numbers\refed benches for why one thing is better than another, otherwise its hard to know if its true or not
+Speaking of temperature is way etter. Why not speaking with data in your hand? I can see only video of somebody talking, talking, and talking .-. no real answer to the youtube title; that case would have benn good for every kind of test..
+I did as much research as I could on what 140mm fans to buy and I bought the fractal venturi fans yesterday on ebay, it was very comforting to see them on the intro of this video lol. Thankyou.
+Running fan commercial promos, pushing tek syndicate apparel before actually getting into the title of the video? Wow.
+Believe it or not theres a method thats not widely known, and thats Pull Pull, both fans pulling heat away from the radiator in 2 directions, it works very well ive tried it. Better still if the rad is mounted at the front you get the best of both worlds heat from the rad is getting pushed out the front and the other fan(s) are pushing air in the case at the same time also you get no dust build up in the fins... If you are using only 2 fans on a 2x120 rad, i highly recommend fitting the rad at the top pushing out, as heat rises.
+dat product advertisement i have 12 fab running at 4000 rpm with just a scresw only with open case and it didn't annoy me with little cheap mobile heatphone
+Does SP fan go in bottom of radiator and AF fan go on top (outside) for push/pull configuration..???
+Anyone know what radiators jay is using cause I need some white ones for my build
+I dont see the point of utilizing a Push-Pull configuration anywhere. Its either you push or just pull. Doing a push-pull configuration only wastes space and unnecessary power. Modern vehicles use only the Pull configuration on radiators and condensers because putting another fan for pushing is useless because the same volume of air will pass through the radiator fins regardless. Now, since the same volume of air will pass through the fins, a front mounted radiator will benefit more on a "PULL" configuration, just like on modern cars. Why? Because the fan will directly blow air inside the case, without the radiator fins causing turbulence like in "PUSH" configuration.
+I believe pulling in air from the outside will be cooler air, in the pc you have many pc parts making heat, and therefore using that heat to cool your cpu would not be optimal.
+Making my first build and this was so helpful! Thanks!
+Hey Jay, love you vids. I'm changing cases over to a Fractal R5 (windowed) where I should be able to remove the 5.25 bays and the middle HDD cage, and adding a Corsair H80i GT (so I can make a build outa my old stuff). What do you think is the best setup for this? I was thinking push/pull on the front but I would like the be able to see the rad through the window and don't think I'll be able to like this, however, I'd also like to keep it as sound-proof as possible. What's your thoughts on where I should place the rad and fans? Thanks man.
+i think i have a problem, my monitor goes turns off and then back on briefly, out of nowhere sometimes and a lot when load a game up. I can't tell whether its my graphics card (r9 290x tri. 77c under load) or my psu (corsair Rm 750). All of my graphics drivers are updated. I have no idea what it could be but it's really annoying, especially when im watching something or playing games. Any ideas?
+That's why you say BRAVO, Jay :D
+sp or af fans for push and pull???????
+Allah! the radiator, The One that must not be seen...
+hello, I first want to introduce my self my YouTube name is garlicbread45 real name is Eric. I just added case fans to my rig. but I would love to hear your thoughts about it am running 5 fans 2 exhaust one is pushing the hot air out on top and second is pushing hot air out the back one blowing cool air in (front of rig) and then I have push and pull for my 120mm radiator. so your thoughts should I just one a push or pull on my radiator and use the other fan as pushing cool air in or use it to pushing hot air out? also I love your vidoes and of course I would like to see any guide vidoes you have or thinking of keep up the great vidoes!!!
+plz don't speek like a russian i have bad memories from dota 2 XD
+I have waaaay too many liked videos. Eh screw it. I'LL DO IT FOR JAY!!!!!
+I actually tried to configure my Nepton 240M in pull. Only to realize I could no longer put my top dust filter back on, because the screws are too high profile. Also installing in pull is much harder, especially with the rubber gasket that comes with the cooler.
+Educational ^_^
+#INeedHelpAtB
+It's a helpful video mr. Jay! Thank you. ?
+Another nice informative video Jay. Just a small slight, less rant = more information. Thanks again.
+with push/pull surely the fact you are doubling the amount of fans on the rad makes running them at a slower speed redundant in terms of acoustic performance?
+Sorry, shrinking too fast? Explain how pls.
+I have positive pressure below the gpu and neg pressure above it. gives the gpu plenty of fresh air to the intake and actively takes exhausted air away. it means the overall case pressure is neg so dust is an issue. but my sapphire 390 doesn't go over 65 which is good for an air cooled 390 running in a case with 1 intake fan
+you need Datsun 240z!
+I imagined myself doing a car's radiator and fans to a pc while watching this video LOL!!!
+that intro haha :P
+Good info...Tnx! 44c here in the summer, also, a country environment... much dust ! No way to escape it. I think a low, under case intake will pick up dust that naturally falls, and plug a filter quickly. Better to have intake on the front, or back? Maybe a large filter on back where it is not visible ? Exhaust at front where pilot may get the full effect of what is going on inside the case ? :-) ..just thinkin... rc
+What about the direction of the fan? Does it matte which side the fan is facing? Like face the side with the sticker this way or that way?
+350z or 370z? whoah
+Does the radiator heat affect the overall Case temperature or is it negligible because of the fan taking air out?
+Such info
+I don't care about How my CPU looks or how loud it is as long as it performs better.. PUSH/PULL configuration for the win!! :D
+Nice video. Does anybody know if there is something you can buy to raise fans? About the same thickness of a radiator that will make the fans visible through the side window?
++JayzTwoCents what is the case on video 1:10 it is mini white color under microphone
+That ad at the front /facepalm I know it's funny. xD
+what case is that?
+pupupupul pushpullpushhpul
+I would do pull for exhaust fans rather than push, the different in air pressure is negligible but by putting it in pull any dust build up will be on the exposed side of the radiator rather than between the fans and radiator.. and therefore easier to clean
+I prefer a push push, or pull pull design.
+JayzTwoBingoWings
+@jayztwocentz I was thinking if you are using 2 SP fans please do let me know.. I was thinking something you can test, I'm really curious about this, since SP fans are good for pushing the air to the radiator and sp is for pulling the air, can you make a video of the following: (please do) 2 SP fans at the bottom of the rad pushing the air 2 AF fans at the top of the rad pulling the air 1. Set up A would be both fans are spinning on the same rpm 2. Set up B would be SP fans are spinning faster than AF fans (since my theory is SP fans works properly on blockage) 3. Set up C would be AF fans are spinning faster than SP fans (for better pulling Please do try I am really a fan on your videos, I've been watching it building my own PC
+Great video Jay. I just bought a H110i GT and I think I'll go with a Push config in the top of my corsair carbide air 540 case.
+eh 69 dislikes
+8:13 an ice cream sandwich
+lmao, coconut monkey...we need more of him on the show lol
+Interesting I have a 140mm radiator triton and the v21 core so I use push because i cannot get the door back on , I am considering removing it soon and replacing with a swift tech h140x
+i do notice a different in noise though. i have a 295x2 rad that is an exhaust. i recently changed it from push (fan on inside of rad) to a pull (fan outside of rad, closer to case grill) and it seemed louder
+That opening was fucking hilarious lol.
+git~
+I don't get the need for complex fan controllers and/or multiple splitters with multi-fan configurations.  Buy good quality high RPM PWM fans, mine are 3000RPM Corsair SP series, connect all the PWM control and one RPM monitor to the MB header, then provide power to the fans direct from the PSU, which is simple enough with a modular PSU.  With 9 fans, 6 of which are running push/pull on a 360mm Alphcool Monsta cooling an IvyBridge CPU and X-Fire 7970s, the fans run at 750-800RPM with the system at idle and are (effectively) inaudible.  During stress testing the fans run at 1200-1400RPM which is audible but not intrusive.  Neither the CPU or the GPU has ever been over 43C.  As an aside, the pump, an EK DDC, is on the same PWM control system.  Disconnecting the PWM control from the MB allows the fans (and pump) to run at full RPM but doesn't assist cooling.  The fans are properly gasketed to the radiator and the gaps between the fans are sealed to ensure the airflow goes through the radiator instead of out between the gaps between the (rather badly designed) frames of the SP fans.  Yes, it means custom cabling, but if you are doing that anyway, it's just as tidy and easy (or easier) to do it this way as any other.
+So pretty much, a push/pull with 2 fans at 800rpm is the same as a push with a fan at 1600rpm?
+I understand what you are explaining, but what I am not sure of is which way your fans are blowing on the rads? Are you sucking air in with the front and blowing out through the top? The reason why I am asking is I have a water cooler on the way (Sedion 120v) going into my Cooler Master 130 Elite. And I'm trying to figure out if I should be pushing air from inside the case, through the rad to the outside or if I should be pulling air from outside, through the rad, to inside the case. I've never run a water cooler before, so I am unsure how much heat will be generated from the rad considering I have no other fans extracting air from the case. My Antec 620w High Current Gamer has the fan on the top, sucking air into the case from the top and blowing it immediately out the back. So unless I turn the PS around, all I have is passive vents to release air blowing into the case. Is that enough? Would you suggest a push/pull on the rad with the fan currently in the case along with the fan that will come with the cooler? This is my setup... Give me your thoughts on how you would install your PSU and your water cooler, if it were system. Cooler Master Elite 130 (side 80mm fan not installed at the moment) AMD X4 860k Antec 620w high current gamer ASRock FM2A88X-ITX+ 2x 8gb GSkill Ripjaws X Series PC1600 PowerColor R9 270 2g 1s 128gb Intel SSD (mounted under 3.5"bay) 1x 2TB WD Blue HDD (mounted on vertical side bracket) 1x 250gb Samsung EVO 850 (will be mounted on bottom of case beside MB) 1x LG DVD writer (obviously in the 3.5" bay)
+I'm really curious as to what would happen if you use push/push or pull/pull. xD
+people, dont use push!!! your radiator will be stuffed with dust in about a year. pull doesnt do that...
+You always have the best water cooling vids my man - each component with it's own recommendations and basic guide
+If you want to have the air flow through the case, or push out of the case, do you have to position your fans in any way? I don't know why but I've read somewhere that the blades positioning determines this.
+The commercial was great xD
+that face at 0:48 is scary
+Great video! I would love to see a smoke video.
+Best video on youtube of this topic. Forget Forums, Google image searches, articles. Just watch this Thanks to Jayz!
+A good comment from your fellow tech reviewer, Linus Sebastian, he recommends Pull rather than Push as it is then better for the dust management (less build-up, more easy to clean). Also, same comment as I said on other video, the direction of the airflow has only very little impact, front to top or top to front, both OK.
+What is the best configuration to mount the fans to cool down a AMD FX-9590 with a Corsair H100i GTX CPU cooler and MSI (2) R9 390X in crossfire inside a Corsair 900D case.
+do you NEED the radiators in betwenn? isnt it enough to run the fans the way that they come when you buy the case? like, isnt this a configuration for just custom water cooling? (sorry, for the stupid question... im still a newbie)
+Another interesting perspective would be to look at an automotive application in which fans typically will be mounted behind the radiator in a pull configuration. I imagine manufacturers do this because many times you have an AC condenser in front of your rad and when stopped the most effective volume to which you can exhaust your heat would be behind the rad and in front of the engine. Of course in that scenario you're also dealing with much more powerful fans that will draw usually a minimum of 30 amps on their own.
+LOL THAT INTRO HAHA
+INTAKE OR EXHAUST FOR CPU COOLING RADIATOR...SOME1 JUST TELL ME
+you could improve the airflow if you look at the "Bernoulli's principle". Unfortunately, computer case are not designed large enough to fit it you needed space for one or two 200 or better still 240 mm fan´s in a narrowing tube, where at the narrowest point a 120 mm radiator is plugged in In addition you need for each fan a cone for the airflow not to swirl, that no noise is generated,visually similar to a wind tunnel. Unfortunately, I find no suitable image to show what I mean. p.s. I despair at times, to the translator aids. and just because I do not know all the words
+Does anyone know what the small white case is?
+That intro thou, reminds me of someone
+Thank you sooo much. It made it so much easier to understand the process. I tried other videos but this one really helped me understand the process. Thank you.
+I plug my fans in pull-pull. Because push-pull is mainstream. ????????
+Hey Jay, Random time; What chair is that youre sitting on? Looks comfortable.
+Hey +JayzTwoCents what do yu recommend me for a h100i GTX push? or pull?
+Hey Jay. I think doing a smoke or something visual with air flow to prove your point about your predictions on air flow, Is necessary. Down right necessary to show us that your experience is true. We are show me people. I'd like to see you make a good prediction like that in this video and visually prove it.
+Anyone know what that case is? Thanks
+Hehe this video was funny maked me smile ^^, only first minute tho.
+I do like pull generally simply because over the years I have noticed that dust accumulates much less at the radiator than in push configurations every time I've done it. Anyways, Great Video! Much agreed on the Cooling Differences! :)
+Nice lecture... I plan on at some point going from an AIO to a custom build.. Very informative.. Thank you!
+Push set ups will make it much harder to clean, gathering dust, and reducing cooling performance. That goes for push/pull as well obviously.
+ok, so if the fan is in top of the case then the radiator, will itbe ok for the fan to be pull? so the fans is sucking hot air from inside the case though the radiator to the outside, will this be ok?
+"I need help at bee" ROFL - best comm ever.
+Should I balance the ammount of intake / exhaust fans? With my case that'd be 2 intake on the front and 1 on the bottom then 2 exhaust on top and 1 on the back. I'm just not so sure about the bottom fan, Will it really intake that much air being on the bottom?
+So, you always want the front fans to pull or push air INTO the case and the other fans in the case to exhaust the air OUT?  Am I right on this?  If you added a radiator to the bottom of the case, would you exhaust or intake?
+1:29 I really like that voice XD
+Hey @JayzTwoCents Unfortunately I don't get to watch your videos often, but I'm pleasantly surprised at how far you've come on your weight loss and fitness. Ride safe, bro.
+we need to see this
+hey @JayzTwoCents will you be getting the inwin 909 case?
+I am really interested in what is that white case Jay has in this video. I'm kinda bored by my old black semi-plastic mid tower and looking to buy a nice, white, full metal case with simple, yet stylish design(for that I mean no fancy stuff like glowing fans and neon lights all over the place).  Desires are: No PSU, no 9000 fans(3 or 4 places for fans is enough, 2 at the top, one in the back and another in the front), no 9000 drive bays, a bay for DVD R/RW, few USB ports, compatibility with MicroATX and ATX motherboards.  I know this isn't exactly a place to post this, but maybe somebody knows such a case which will not cost hundreds of dollars, but will fit my desires?
+Liked just for the intro. Just perfect!
+more videos about airflow and ideal positions for fans with setting up fan curves ohh and smoke and explosions (optional) :) cool video i like all the watercooling content you make :)
+Love your videos! just wanted to say, your weight loss has been nothing short of incredible and I'm really happy for you =)
+Havent watched your videos in a while, ur looking great man, dat weight loss
+Most confusing video title 2k15 xD
+Love the Tek Syndicate intro xD
+dust on pull config in the top of the case is better to clean
+i totally get this but wanna see a smoke demostration :v
+Yes, please do a visual example of what talked about in this video. I would like to make my own computer and knowing little to nothing, seeing a visual example will be really helpful. Thank you! C:
+what keyboard is that with the W A S D in orange? (can you post a amazon link to it?)
+that should be nice to see how the fan work and proper placement and the different.
+can you do the inscent test?
+Anyone know coconut monkeys headset in the commercial?
+Please keep up with the information density!
+Nice car Jay, damn
+On the topic of fans etc. I find it so strange that some brands actually decide to put arrows on their fans to indicated the fans rotational direction and airflow. What kind of people posses the capacity to operate a computer and not figure out the fans rotation and airflow direction. I am truly appalled. However as to Push vs Pull, I use always use pull. Simply because it makes cleaning the radiators from dust easier. Having the radiator fins unobstructed by fans means that you can simply run it over with your vacuum cleaner hose.
+Hey,love your videos have a question... in a Push/pull setup,what is the best  "ST/AF","AF/ST" or is better use same fans?or doesnt have any diference?
+2:30 What beginning? I have been building PCs for decades, and don't know anything about building water cool PC. So where to start?
+Hey @JayzTwoCents You're thinner every week. Watching your older videos and the new ones, it's like going from Barnacules to Linus.
+This is going to be a long comment. So in your setup you had the two rads I believe the front was pull and the top was push. Now because of the heat being produced in the computer case, might it be possible for the rad on the top to get a slight decrease in performance do to it pushing the hot air through the rad. I thought of this and would really like an answer. Thank you. And keep up the great view!
+@JayzTwo Cents I'd really like to see the demo with smoke or incense. Not just out of curiosity for the airflow on your builds but I'd like the reference as I adjust my fan configuration.
+@JayzTwoCents  Yes plz make a in depth video about exhaust/intake with smoke etc. Ty
+What about a rad sandwich? Would one get better performance with say 2x 30 mm thick rads in a push / pull - push configuration vs 1x 60 mm thick rad?
+great video! very informative, i would like to see the smoke video to show airflow, that wud be really cool !
+More videos about airpressure within the case and air cooling would be cool!
+DAMN jay you've lost a lot of weight ;)
+more water cooling info love these videos.
+Hey Jay what did you do with that Ultrawide monitor you reviewed?
+Pull still has the advantage that Dust doesnt accumulate as much between the fan and the rad.
+Nice fucking car!
+what headset was your friend using
+Alright, I seem to understand this Push, Pull and Push / Pull , but in a push set up, do you install the fans backwards?
+Would love to see more on the airflow, maybe using some smoke to show the flow?
+spoiler alert: push / pull, doesnt matter. do as you like.
+Get the oneplus TWO invite here: https://oneplus.net/ca_en/invites?kolid=2AXW02
+The intro was funny.
+I found this very helpful, thanks :)
+What's changed?
++1 for smoke video! I'd love to see it!
+great video...actually learned alot.
+Good stuff
+Lost a lot of weight Jay! :)
+Looking good Jay. I hope you continue to stay underweight and live healthy. Also, the video was really informative for my upcoming water cooler
++Jayztwocents Final Fantasy 7 called and they want their logo back.  :)
+Jay should make ads, that one was super funny xD
+What case is that?
+Hey wow, you actually put some thought into your ads, unlike Linus who seems to hate everybody sending him free shit.
+>can't hear what your saying with headphones directly on your ears >CAN hear the doorbell ring perfectly, no problem wat
+Hey! JayzTheW0rld!
+Holy shit a nearly quarter of an hour lecture of you just sitting and talking? Where are the numbers that back up your assertion that these are basically all equal? I believe you, but the format needs a change of scenery and some objective comparisons, rather than a dry call to authority.
+Love your videos. Knowledge is power. Keep it up
+http://pcpartpicker.com/user/raptorjesus713/saved/qyrscf hey guys im a pc noob but i decided i wanted to build myself a custom pc with the help of some of my friends. tell me if all this is good or bad or overkill etc thanks so much
+Very informative. Thanks Jay!
+has jay ever reviewed the cougar fans? they always seem to have good reviews has he done a top 5 or 10 120mm fan video?
+Thank you for this video this helps me out a lot.
+I'm about ready to do my setup but I don't know if I want to spend $ on waterblocks for my 2 780ti. Thinking of selling them and getting a single 980ti and watercooling that. Hmm
+i've been thinking about a setup and would like your thoughts. next year i'm building a water cooled setup with the coolermaster stacker. putting my rads in a lower case away from my hardware. i have some TEC (peltiers) laying around and was thinking about sealing the case with my hardware then using the peltiers to cool the inside of that case. i know it won't help much in overclocking but just an idea
+I thought push&pull configurations adds resistance to the rad, that's why I never used pus&pull. This might be the reason why some big CPU radiators sometimes have 2, even 3 fans.  Also, there are some low RPM low-profile fans that are half the thickness of a normal fan. So using 2 of those low-profile fans seems the same (in terms of thickness) as using one normal fan, but with the advantage of having both push&pull configuration, so basically, no compromises.
+The intro made me crack up
+What jay ment was dont let shity headsets ruin the experience lol
+Please don't recommend people to use rads as exhaust. This recycles air that's already run through a radiator and heated. rear exhaust fan + psu exhaust is plenty
+Can someone please give me the name of the case he is using?
+when he said push/pull fans i started bleeding out of my ears
+Looking forward to the static pressure video.Thanks
+Will there not be a lot more dust clogging in push than in pull?
+You're the man!
+thanx jay i was gonna change my fans trying to drop temps but now i know it doesnt matter and i have good flow  keep up these kinds of vids
+Main decider for me between push and pull is some fans (like the AP15's I have) make more noise when you have obstructions near the intake.. so they make a more tonal noise above say 1600rpm or so when in pull compared to push.
+I have a question about push/pull and mixing fans.   I got the Corsair H105 for my old I7-950 about a month ago and have it setup to exhaust out the top as push/pull.  Here's the thing with it.  All the fans are very loud, especially the stock H105 fans.  So I set it up as 2x Corsair SP120 fans, pushing air at 80% fan speed, and the two stock H105 fans as pulling running at 60% to cut noise down.  Does this setup potentially cause any problems with air flow?  As for performance it seems to be good, but every little bit will help in these hot California summers.
+go for the smoke test Jay btw, nice vids, keep it comming
+would like to ask about fans such as NF-F12 PWM fans. They seem to be designed more for push? does it actually matter?
+So, would a radiator be benificial to use even if air cooling? That's what he made it sound like to me.
+as ever, i'll be content with using Pull for any Radiator. because it's almost like cheating with how easy it is to clean your Radiators then. a single wipe with a damp Paper Towel and you're done. it's too easy!
+that commercial though
+where can i find the radiator you are using? i want full white radiatorsbut i have only find black and white
+I want an opinion on what cpu cooler I should get. Cooler Master Hyper 212 EVO 82.9 CFM Sleeve Bearing CPU Cooler - $25.98 NZXT Kraken X61 106.1 CFM Liquid CPU Cooler - $125.89 Corsair H100i 77.0 CFM Liquid CPU Cooler - $94.99 i have an Intel i7 4790k
+Please do a video about the airflow of skunkworks with the smoke and everything! I am really interested in that kind of stuff and I'm always looking forward to perfect the airflow in my case! :D
+nice vid!
+you have turned skinnier!
+Do you have any thoughts on this computer i am going to build? :-) MSI GeForce GTX 980 Ti Gaming 6GB Intel Core i7-4790K HyperX Savage DDR3 2400MHz 16GB Samsung 850 EVO 250GB SSD Cooler Master Hyper 212 Evo CPU Køler WD Desktop Blue 1TB NZXT H440 Midi Tower Sort Cooler Master V850, 850W PSU Gigabyte GA-Z97MX-GAMING 5, Socket-1150
+Hello
+but what about push push and pull pull, where the directions of 2 fans are either facing each other or away from each other. if it cancels out, wouldn't it start a cooling vortex that also rains cookies?
+When I was building my loop, it was recommended that I run pull since push can result in dust build up between the fans and rad which require removing the fans to clean while pull does not.
+Sometimes i get bored with the subject, sometimes i dislike what @JayzTwoCents is talking about, sometimes i just don't care what his video is about. But you gotta love the guy's production/video quality
+Holy shit jay you lost a lot of weight! Congratz!!! :)
+what if it was push push or pull pull ? xD
+How should i control fan rpm's via software? I have 3 extra EK furious vardars (3000 rpm version) and it sounds like a jet taking off.
+Dude, you look healthy now.  I saw some of your earlier vids and you are wayyyyy skinnier.  You work out bro?
+Thanks for the video jay! I've recently just found your channel and I find your videos to be much more personal with the viewer compared to some other tech youtubers. I have an NZXT H440 case and This video explained a crap ton of how I wanted to have my fans and why I should have them! Just a quick question though. In skunk works you have 3 intake 5 exhaust at the top like you were saying, but what RPM's do you have your intake and exhaust fans set at?
+I'd be interested to see the effects of radiators on airflow!
+i agree with you on most accounts here, although there are exceptions to the rule. for example there are tests that point towards fans with low static pressure performs better in push than pull, you also have fans like the eloops that have noise issues when set in pull if the  distance to the radiator is to low
+Nice job explaining the various configurations. I've been saying I'll water cool my next machine for about 10 years but end up air cooling each time. I found everything you said here to make perfect sense and it should be easy to understand for anyone looking to get into water cooling (like I STILL am). Thanks Jay.
+I'n thinking about building a small gaming rig. It's been a while since  I build a computer and this video help me a lot. Can someone tell me the name of the small white case showcased on this video?
+Do a series like "Jay's school" because that's what this video felt like...
+Cool with Tek Syndicate
+You sound like the giant from Twin Peaks
+I would assume pull would heat up the fan motor a bit more but that's all.
+Excellent video with a simple explanation that even a dimwit like me can understand.
+my actual confusion is whether or not you make the radiator fans as exhaust or intake if it is mounted on top. Some people say if you make the fans as exhaust hot air will blow through the radiator and make the cpu temp go higher, on the other hand making it an intake will make airflow on the case all wrong as heat rises. So which one is better?
+Man that front splitter and canards to really well with the 350z
+Good to have you Jay on youtube to answer this "simple" questions about quantity of fans, static pressure and all that stuff.
+I would not use any combination involving (push or pull) with a radiator as an intake tho, that would just heat up your case and other components. Anything with a radiator needs to be an exhaust if yea ask me.
+Lovin' the new intro. Nice and minimalist!
+Air Pressure video would be awesome!
+Good vid...good explanation of thermal cooling.  I would love to see the demo of Positive pressure systems...using smoke would be a benefit.
+like the new intro (y)
+Is Push pull not a debate of noise ? Because in my wood case, which isn't watercooled, when my pull/intake fan is in the case it's vey noisy. But when it's out of the case, like the push/extractor fan, it's less noisy... Someone agree ?
+I am just trying to learn about about computer building and don't quite understand why you would have  a radiator on the exhaust side, aren't you just passing warm air through the cooling fins rather than cold?
+Liked your old intro better.
+lol
+I'd love to see a video about case pressure with smoke!
+Wow, check out that weight loss. You look great Jay! Keep up the good work!
+LOL that intro tho
+I think doing some examples of postive case pressure would be awsome jay.
+@JayzTwoCents please talk about optimal cases (non Case Labs xD) for water cooling. The most roomy,  radiator capable, etc etc ones. Thnx for ur amazing vids
+Hell yeah I'd love to see some testing with smoke or vapor to see what happens under different pressure situations (pos or neg) Keep up the good work Jay!!
+One item I have never heard addressed is if the heat coming off the radiator affects the performance or lifespan of a fan.  If a fan is in a pull position then it is getting a fair amount of heat and with the many different types of fan motors out there does the heat really affect the fans and how much?  Also with the resistance the fans encounter pushing/pulling air does that affect the lifespan?
+I thought that was an ad placement for a better mic. Lol
+Oh god Jay, Logan's gonna sue your ass. lol :)
+Jay, I want to see you build a new version of your old "ghetto water coolers" Your the man on water cooling. Apparently you did this in the past.  A  "Water Festivus" for the rest of us ! :)
+MY IDEA! THE INCENSE WAS MY IDEA!!!!
+What about push/push and pull/pull?! Only 3/5ths of a review...
+I'm new to radiations and liquid cooling and very much appreciate the explanation about pull vs push. I understand about positive pressure but I can't seem to understand why would you want to pull hot air from the front radiator into the case and use that hot air to cool the top radiator ? Would it be better for that case to have front airflow fans, push or pull radiator on top as exausht for GPU and single rad exhaust on the back? I very much appreciate the feedback. Love the channel!
+Hi Jay (or whoever is reading this),. I would like someone's opinion on whether to get an Intel or AMD based processor. (BEFORE you respond and fanboy about anything, please be sure you are unbiased), as well as options to get cheaper, equal performance hardware :D Here are the two setups:  __Intel based:__ (http://ca.pcpartpicker.com/p/GGY7bv) $1857 Intel i7-4790k 4.0GHz (4 core) Swiftech H220-X liquid CPU cooler Asus SABERTOOTH z97 MK.2 ATX motherboard G.Skill Ripjaws X Series DDR3-1600 ram 240GB OCZ 100 (SSD)  Seagate Barracuda 2TB 7200rpm HDD Gigabyte GeForce GTX 970 4GB WINDFORCE 3X NZXT H440 case (silent) EVGA SuperNOVA GS 550W 80+ Gold Windows 10 __AMD based:__ (http://ca.pcpartpicker.com/p/Fd6xvK) $1717 AMD FX9590 4.7-5.0 GHz (8 core) Swiftech H220-X liquid CPU cooler Asus M5A99FX PRO R2.0 ATX motherboard G.Skill Ripjaws X Series 16GB (2 x 8GB) DDR3-1866 ram 240GB OCZ 100 (SSD)  Seagate Barracuda 2TB 7200rpm HDD Gigabyte GeForce GTX 970 4GB WINDFORCE 3X NZXT H440 case (silent) EVGA SuperNOVA GS 550W 80+ Gold Windows 10 THANKS :)
+Love the TekSyndicate intro
+Will high airflow intake fans against high static pressure exhaust fans create negative pressure?
+Shirts are nice, same guy makes Paul and Kyles shirts. As far as push vs pull goes, i use push on my H101i on my 750D case . for one thing it looked better, another thing is that even though i have a 4770k @ 4.4 it NEVER goes over 51c under heavy load, however the ambient temp in the room is usually 25-26 c. One thing you did not mention about pull only, it actually heats up the fans, think about it, the motor will get hotter.  another nice vid Jay, #moreNick
+Can you do a video on DX12 or i7 benefits in the future? :)
+This was very helpful, thank you for this.  I'm looking to switch to liquid cooling in my Corsair 250D, but wasn't sure where to start.  Looking forward to further discussion on this topic.
+wow Jay you lost so much weight already, good job!
+Wow , good arnold impression
+I see what you did there!
+yep jay do the smoke thing always wanted to know how to check for positive over negative
+Love the new intro Jay
+Im sure he couldnt hear you with his headphones on because his fans were too loud, retard wow.
+Which is best for a 240mm rad? Front intake or top exhaust? Not sure top exhaust will be a good idea since it'll take hot air from the case through the rad. On the other hand front intake will blow the hot air from the rad back to the case. Not sure also a good idea for the gpu. Little bit confused.
+That "promo video" or what you call it.. The one with the B and the fans, that was fun to watch compared to your normal "here is a product i get sponsored with" you know what i mean (Not complaining or anything, just saying do more "sketch" "promo videos" :) )
+That intro ad XD
+Hei Jay. I would really like to see a vid about how to PLAN and MAKE a complete custom water loop. How do I know where I need to cut and bend hard tubing? How can I cut hard tubing without any special tools? How do I make a good drain system? What else do I need to keep in mind? I would really appreciate it if you could make something about this topic. Keep up the good content :)
+Jay!!!! Omg???? i drive a 350z too!!!!!
+Jayz the best
+As usual, very well presented. Yes, we would like more!
+Jay, before I can continue watching your video I have to say I'm so jealous of your car.
+Smoke them please!
+While there is no difference between push and pull in terms of cooling, there is a difference in the amount of effort it will take to clean the dust that accumulates.  With pull, the dust will get caught on the fins of the radiator away from the fan and be easy to wipe off with a cloth but while in push the dust will again get caught on the fins but it will be between the fan and radiator so in order to clean it you would have to remove the fans.  This is just one other thing to think about when making the decision between push and pull.
+Hi JayZ, nice video. I have Define R5 case, and i'm wondering since i want to put Nepton 280L water cooling in it, is front position good to put it, and which setup should i use, push or pull? Your advice will be very helpful.
+I lolled when i saw the ad at the start...great job!! This way advertising is the best way to do it
+dat advertisement xD
+video with fire would ROCK!
+Wait, did jay lose some weight? That shirt makes Him look lighter than usual
+Do the demonstration ! :O
+Please to the case pressure with smoke!!!
+hahahahahahaha that ad was the best one yet xD
+Hey Jay, good video as usual, love your work, keep it up. Btw, you're a bit wrong, you say push is equal to pull, it depends on the fan also. I'm not totaly sure but confident about what i'm gonna write. I have read that nb-eloop were designed to be used in push configuration, pull will cause a abnormal noise and a degradation of the performance and the lifetime of the fan. For other brands, like the ek vardar and fractal venturi it's said they have been design to work both with pull or push config so they are fine in both situation.  Still a great video and a well explained tutorial for watercooling rookies ! :)
+all that skin tho >.<
+Experiments with smoke for positive/negative pressure??? Bring it on Jay!!! Stuff like this is rare and I would shurely enjoy a video about it!!! Thumbs up if you other watercooling freaks agree and demand the same!!! :)
+HE NEEDS HELP AT B
+Jay, would an i5 4790k and MSI GTX 970 be enough for games like CS:GO and battlefield 4?
+He looks like a confused alien.
+Hey Jay, any thoughts on a video for whether or not you should upgrade to Windows 10?
+I would like to see more on positive and negative airflow using the fans.
+btw, first time i mounted the push-pull on the h100i, i fuck*d up the side of the fans so i basically had a pull-pull config, makin it a mess of a turbolence in the radiator...on my 3570k@ 4.2ghz it meant +10° compared to the correct config. so almost 50° in idle(very hot summertime) vs almost 40° in idle(similar weather conditions.) ;)
+hello ! I have a question:can I Crossfire a radeon 5850 HD with a r9 390 ?
+DAT SPONSOR SPOT! LOL! GREAT VIDEO JAY!
+PLEASE HELP! Great video as allways. Love your vids. I was wondering if you might be able to help me with my system. I don`t know if you are reading comments, if not i would appreciate it if anyone else here could come with some ideas. I have AMD Phenom 2 x4 965 BE cpu in Asus Crosshair 4 Formula mobo and when i try to install 16gig 1600 mhz it wont boot up even when using the memOK button on my mobo. The weird thing is when i install 1x4 of these rams it boots up and everything is ok. But when i put in another module i get this: 8gig installed,4gig usable. So my pc reserves 4gig to hardware reserve. Any idea guys?
+If you have the 240 rad blowing into the pc wont that bring excess heat inside?
+little question gus : do you think my system will have a balanced airflow? in intake, i have : 2 hi speed ones and one hi pressure but with a rad on it in outtake i have : 1 hi speed fan and 2 normal fans wath do you guys think?
+my two cents..on a HAF XB (bulkier case ever)with a H100i, i got 2 pairs of 120 noctua fan in push pull outside to the inside. It works best for my setup.
+heard you talking about the 350z on the techtalk...now that i see it i understand why you are so proud, its stunning beautiful..and its way more radical looking than the 370, the shapes are cleaner, more pure. love it.
+I understood everything that you explained Jay but as a water cooling noob, why would you pull the front radiators hot air into your system over your motherboard and graphics card as opposed to pushing it out the front and use the bottom & rear as intakes ? Great stuff as always...
+You forgot something important Jay! In pull configuration, removing dust is WAY easier. In push you have to remove the fan to clean the radiator wich is a hazzle. In pull you can just take a strip of packing tape and stick it on the radiator, then when you pull it off it's covered in dust.
+Yes please do examples for positive pressure etc.. Excellent idea to use smoke/incense.
+Jay you are the man. The smoke and stuff to see how the fans work would be awesome.
+Yes please, more videos on cooling/airflow!
+Like the water cooling educational vids.
+Great vid jay I would like to see an airflow vid on the define S both watercolled and air cooled to see what is the best setup for it
+Smoke demonstration would be awesome
+Thanks Jay.....explained very well
+Hey JayZ, nice video man, again. I need your opinion. I have Define R5 case, and i want to put Cooler Master Nepton 280L water cooling in front, and, can you tell me is that good position, or should i put it on top and what setup to have, push or pull. Thanks.
+can u do a video of what sli or crossfire actually does
+I kept thinking you were saying "allah" at 5:32, took me a few replays to realise you probably meant the French "a la" lol
+A smoke visualizer for air flow would be a pretty helpful Video please :)
+Awesome job on the weight loss! What a difference from last year to now :)
+You drive a 350z on xxr D:
+I have a 300 cfm intake on my side panel am i doing it right ? :D
+Maybe could you do a video on the fan control software you use?
+Jays this was a very Good video man :) Very informative :) All tho i have not done a custom loop my self lol Don't even know where to buy the fittings or anything
+dat arm flab
+Did Linus not do a video a while back saying to only do pull because push can trap dust in the radiator?
+That intro though.
+The only difference is how long is your fan gonna last. The fan that is pulling hot air trough itself is gonna have heat on the bearings and last that much shorter. Small difference but K.
+Yes , we would like Jayz to show more example how air flow to turn down the temperature. THANKS.
+omg you drive a 350z?!?! Can You make a Video about it? :)
+Thanks for this video but how you control speed of fan with program or controller??
+loved that intro..made me laugh
+What headphones/headset is that
+Why would you blow hot air into the case from the front radiator. The top radiator gets hotter in that case ..
+The tek?
+0:47 made my day :D
+No difference? What about dust build up?
+If that Nissan is yours then please make a video about it :D, oh god it was so sexy~
+dat 350z tho <3
+Your looking really well @JayzTwoCents those bike ride's must be doing the trick ;-)
+I run a i7-4771 at 3.5Ghz with a Corsair h100i with noctuas sp fans in pull at about 250RPM at idle and get about 35°C. Under extended gaming it goes to 52°C max. Then the fans are somewhere at 600-800
+Much like anything that has constant 'resistance' in its name (electronics, plumbing, hvac)...push and pull don't matter. One thing I want to see is comparison of push+pull to pushpush or pullpull (same fans, same resistance, should be same result).
+One thing Jay failed to mention or at least I didn't hear him say it, correct me if I'm wrong, is that when you use a push configuration dust is much more prone to get trapped on the rad between the fan and the rad. This is why I choose to use pull 99% of the time. Unless like in your case you go for aesthetics, in which case you'd rather put in work so it looks better.
+in my H440 i have a kraken X41 with a thick rad with 2 corsair high static pressure fans in push pull i actually saw a big increase in cooling. the thickness wasnt an issue because the rad is mounted in the front and it cant be seen through th window. i didnt have a clearance issue either, as far as the acoustics it is dead silent. i actually got scared when i turned it on and heard nothing (i had a really loud pc before i upgraded) and my fridge in the kitchen is the only thing i can hear when i dont have my ceiling fan on
+What headset model is the triton?
+smoke!!!
+The Teksyndicate beginning was really interesting!
+Excellent vid, so much info condensed! Also you're looking thinner by the day!
+Hey @JayzTwoCents, where is the GTX 980 vs AMD R9 390X?
+That flabby arm skin reminds me of Click.
+I love those fractal ads :'D
+love the ad! :D
+Love your nissan!!
+Oh you got a new chair :P Is there a review comming on that, too?
+TeiSyndiCents
+great video thanx, lerned a lot!
+Here is a question. You have the two front fans on pull on those radiators. Wouldn't that be pulling hot air into the case?  I am sure you will say that you have more than enough exhaust fans to make up for it, but are the aesthetics really worth it? Also, and maybe I missed a video somewhere, why do you need four radiators? Sorry. five radiators. I ask these questions in all sincerity. I love your videos. (Forgive me if this was said before. There are a lot of comments down there and I don't have time to go through them all.)
+Instructions unclear, dick got stuck in Cpu Socket
+nice car
+Hey Jay, what's happening at caselabs? Only cases in black now ??
+Just as I was wonder what way to have my fans on my rad you make this video... how convenient!
+Sooo, push-pull is the best cooling configuration, if you have plenty of space?
+That intro was perfect
+Jay i love you and your channel! Im just trying to make your life a bit better but i may be stepping out of my zone by saying this and im sorry if it offends you in any way. Anyways, you seem respond alot to the negative comments and i think you would be more pleased or happier, not to say youre not either of those but you replying to the mean comments is literally only making them happy and giving them what they wanted. I understand trying to put people in their place when they are rude but that just simply doesnt work on the internet, youtube especially. Im 99.99% sure you already know this but theres always that small chance with everything. :)
+Nize Nizzan 350Z JayZ =)
+I heard push configuration was the best, so I went with a push-push configuration, yet my temperatures reach up to 80C, can someone help?
+Aren't those fans attached to that radiator in the front of the case blowing in hot air? Wouldn't that reduce cooling inside your case? Then the top radiator fans blowing hot air to cool the radiator on top?
+It's funny because Americans don't understand the metric system.
+Like for the ad at the beginning :D
+u look good jay, and nice car & video
+TL:DW; it doesn't matter^^
+i want tea, no i don't see any trouble at b, no i said i want tea!, yes i pay my fees drives over to my friend i want tea, ooooohhh.... that's what you were saying, yes, so can i have some tea now? Oh sorry, i don't drink tea. NOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!
+@JayzTwoCents is that actually your 370z? Holy shit that is nice
+I understand you. I love your channel keep up the good work
+The parity between (single) push vs. (single) pull has been well documented in a few different places.  If folks won't believe simple hard data, no point debating them. I would however be interested to see some temp./air-flow ratios compared on push-pull stacks vs. one-side-only fans -- i.e. examples of exactly HOW MUCH rpms can be cut down by adding a second set of fans on 30mm and 45mm radiators.  (I sort of assume anything thicker than 45mm rads need either push/pull by default, or REALLY high rpm/pressure fans, which defeats the purpose of water-cooling, i.e. too noisy).  I think the key to this question is fin density differences between different rads.  (And of course any aluminum-fin radiators need higher fin-density and/or MUCH higher fan speeds to keep up with good copper-fin rads.) Also, a visual smoke-flow demo on Skunkworks, would be really cool to demonstrate the flow-balance issues (incl. differing rpm settings) you were describing.
+Hahaha thats awesome that intro lol
+Hey thanks for the video, but i would like it if you did do a video on the positive and negative presure. I have NZXT switch 810 case and I am running a 240 rad with push pull config for intake. And also I hve a 360 rad in push pull config on top for exhuast. Is it better to have more fans for intake or exhuast? Can you do a video to show which is better. Keep up the great work....
+Love the intro. Nice car btw.
+1, ur awsome! 2, Sweet video! 3, your car is freaking awsome!
+What are some good 140mm air flow fans?
+You copied their music. Now convert to linux. Or else.
+ok having the top as exhaust = running already hot air though your radiator?? ps Want pressure vids!
+is 120mm radiator enough to cool quad core cpu?
+dayum jay, what car was that?
+nice z cameo
+Great intro and one of the best commercials i have ever seen. also great how to.
+may I say from my experience and from web there is little difference/ advantage between pull vs pull. Basically if you use pull configuration, you will gather dust on the other side of fans, what is easier to clean than having push configuration and you gather dust between fans and radiator and then having to take them down to clean dust. But it's only little advantage, I still use push/pull config on both loops :) great video.
+Honestly, the only way you should set up your fans is pulling air through the rad. Let me explain- when you have air pushing through the rad, any dust will get caught between the fins and the fan/radiator. How do you clean the properly? You need to take off the fans. Yea. If you just do pull, the dust settles on the opposite side of the radiator where you can get a hoover or compressed air and clean it easily. I would always go with Jayz recommendation but in this case it's just not practical. The temperature difference is not much anyway and it saves you a LOT of hassle. My current setup with water-cooling will have a positive air pressure, 4 fans on a bottom rad pulling, 4 fans on a top rad also pulling and two intake fans. All filtered to limit the dust in the case. As I said and so did Jay, push or pull make almost no difference so... go with pull to save time.
+Damn that car is sexy, is it yours jay?
+Ooooor, you air cool the whole rig and have it dead silence and cheaper. Just sayin'...
+You own a 350z?! nice. Twin turbo model? whats done too it?
+Wouldn't the best option be to have both rads as intake? Then you wouldn't be exposing the second rad to the firsts rads heat. Also you have the PSU fan that will be exhausting air as well so you'll still have even more exhausts even if you add the 3rd rad to the bottom.
+I wil l admit the only way I do mine is pull. It cme down to cleaning. It's so mm ice easier to clean the dust out in a pull configuration then a push. Personal preference and h ok neatly I tested all way and no found no difference in temperatures.
+Nice video. Note that the temperature of the air pulled through the radiator matters, so the one mounted on the front provides maximum cooing on the radiator but can heat up the ambient temperature inside the case. For balance cooling, mounting it on top where the hottest air are expelled is what I prefer.
+1:18 insert dick joke
+when i heard the music i knew it in a heart beat and than yelled" TekSyndicate" am i the only one that did that?
+vlog for your Nissan please
+how did you lose weight so quickly? what has been your process please let me know
+I have one fan pushing and one pulling through my 240mm rad, swag
+I'm building a PC this summer and as the collection of my parts come close to complete, I was wondering how I should set up my fans on an NZXT H440 with a 240mm radiator. A video on getting neutral or positive air pressure with radiators would be awesome.
+Smoke and incense please! ^_^
+h???e???l?l??o¯ ?ca??n? y?o?u ?r?ea??d? t??h?i??´s???
+losing weight like a boss
+Hey jay, so I have a question... I totally understand the push pull with rads. I personally run SLI titanX Hybrids. They each have a 120MM rad/120mm fan attached. When installing them, I put them on the top of my case as a push config.. I was going to put them on the front of the case as a pull but I thought that because the rad is meant to expel the heat, that using a pull config would just be bringing a ton of extra heat into my case. But I see that youre using a pull config on the front of this build... Wont pulling the heat in to the case through the rad increase the ambient temperature inside the case and therefor heat up the compnents more?
+Oh and good job on the weight loss. You really dropped it off fast. Seems like yesterday you were a fluffy man :P
+Triton AX720 Pros. Old models? I loved that headset. Triton's were my first headset.
+what case is that?? the little white one??
+What is the better config in my Enthoo Luxe? The Enthoo Luxe has dust filters at the top, bottom and front. If I would switch the rear to intake, I would buy an aftermarket 140mm dust-filter. People seem to favor the top as exhaust due to two reasons: - Most of the dust build-up is at the top, if the top is configured as intake it will pull the dust into the case. - Hot air physically rises, when the top is set as exhaust its performance will profit from this. // 1 // Top: 3x eLoop Fans in Push on top of a 360mm Radiator, Intake. Rear: 1x 140mm Fan, Exhaust. Front: 3x 120mm Fan, Intake (two at the front grill, one attached to the hdd cages). OR // 2 // Top: 3x eLoop Fans in Pull on top of a 360mm Radiator, Exhaust. Rear: 1x 140mm Fan, Intake. Front: 3x 120mm Fan, Intake (two at the front grill, one attached to the hdd cages). I've currently got it configured like in Option 1, but I'm still waiting for my 980 Ti G1 Gaming (since 2 weeks) which is why I can't really test the system.
+hey jay, can i use air flow fans if i only do pull config?
+That intro where you drive to his house. Lol! That made my day! I need help at B!
+That intro was great. Great vid as always!
+Name (that i already said last video) TOXIC SNOW!!!! Plz hit the like so jay will see And plz mention my name :cool deeeeee kind
+would be great to see the examples of positive pressure... :)
+Nice car @JayzTwoCents
+You get a thumbs up just for the sketch comedy bit. :D
+Concise. Thanks for mentioning the use of incense as a flow guide; I never thought about that.
+i LOVE the intro... i like it much better than the old one. it feels retro and just. good like
+What case is that? I currently have an InWin 901 and want to upgrade...
+"Push-pool"
+Damn Jay, you are looking great!
+that car :(
+Would totally love to see some case airflow pressure videos. I usually have to do a monthly cleaning in my case to ckean up a lot of built up dust. Could just be my pkace is messy, but doubtful. Could be negative airflow, dunno. Would be nice to find out.
+def loved this. i would find more airflow stuff interesting. still havent nailed that knowledge down on my builds. I'd also like to learn more about RAM. specifically when OC'ing, andthe meaning of all the specs in RAM cards. (i still dont understand timing numbers)
+Hey jaystwocents I'm trying to buy a 200$ graphics card Sapphire Radeon R9 270X Video Card - 4GB GDDR5, PCI-Express 3.0 (x16), Overclocked - 11217-04-20G but I might need a new processor because it's only dual core do you think it is needed to upgrade from dual to an quad or 8 core I only have 320$ by the way please help if u don't read this that would suck but it's highly possible so if you do thank you and please help!
+Typical american to call things something as push-pull. Im just thinking Who would make a push-push or pull-pull configuration? Okay, so why not call it a radiator with two fans on?
+thx for the info it was great
+Holy crap you got thin, Nice one dude :)
+Nice Z :)
+more please!
+Only 40 secs in and love the effort put behind this video. Awesome job !
+jay, no homo, but DAMN YOU SLIMMED DOWN...looking back at the video from project redmist's build vlog the change is just night and day!..
+Dose anyone know where to get fan screws for a corsair aio
+I am probably getting a new pc soon and was thinking of water cooling it so these videos are going to help. I don't know if you know a joe Rafferty or how ever you spell his name but he is helping me with some of the parts.
+umm, this video rocked.
+Yay 370Z!
+How can you still hear the fans while wearing headphones? Lol, still a good skit tho
+Am I the only one who thought the push pull config looked like an oreo?
+2 of my favourite youtubers in a video. :) wish you were on the tek more often. also great video. will you ever continue this as a series? like howtobasicwatercool ?
+Please do the demo with smoke! that's going to be really useful, I just put my H60 on a Push Pull configuration, and the amount of noise that my system gain is crazy. Going back to push configuration.
+dat fairlady tho D:
+Been waiting for you to do a video on this very topic for quite awhile. Thanks Jay!
+I think the smoke example would be pretty cool and informative.
+Maybe im strange but i kept getting distracted by the arm jiggle...
+@JayzTwoCents 0:42 350Z Teaser!
+please go back to your music bro
+You drive a sick ass 350Z...I'm so jelly
+god damn, you're looking very healthy man, grats
+Would it be better go to SP Push and AF Pull?
+Thanks for this video! I finally got a clear answer on push vs. pull. Thanks @JayzTwoCents !
+Dat fan commercial, tho! :)
+Lol, best intro yet.
+Sorry, I am rather new to this whole thing. I know that this is not really something to worry about, but could you do something on case lighting? LED fans don't quite cut it.
+350z Dawm !
+Im getting a computer a week from now but i wanna water cool it and not spend so much money (OC my FX-6300) Is there any brand that comes with every part you need? Radiator, pump, tubing, etc. I dont wanna spend more then $100. A little over $100 is fine but not to crazy. :-)
+Yay for Zweihänder! Better link for the music: https://zweihander.bandcamp.com/
+I'd love a video on calculating how much resistance a radiator is going to do!
+you would want your fans away from the vents so push will have them behind the radiator this will help cut down on noise a bit :) , but JayzTwoCents is 100% correct push / pull has no effect on cooling :) . I like sealing my fans with hot glow to make sure there is no air leak
+Push cooling = pull cooling.  I GET IT. It's been said a million times. That argument should be over by now, as stated. The experiments have been repeated over and over, and we need to move on. In particular, we need to talk about a couple other things. First, I often hear that pull is better because it's easier to clean the dust off the rad without a fan covering the dusty side. And then there's noise, another prime consideration in building. Does putting the fans behind the rad in the case reduce noise significantly? The merits of these arguments should be discussed rather than rehashing old debates.
+YESS!!! omg that intro got me LMFAO!!! i love the tek! ugh yesss 10/10 intro!!!!
+right arm is flabby enough. very distracting.
+i dont use a fans on my systems radiators, i use a small child with a banana leaf
+Ok so I need some help. I have a pc case that has two fans on the side panel of the case and one of those fans will not give me clearance on my cpu cooler. Should I take off that fan or get a low profile cpu and leave the fan on as an extra intake fan?
+Hi @JayzTwoCents I need your help about some issues, if you or somebody can help me I'll be grateful. First of all, I'm sorry for my english, I'm from Argentina and english it's hard for me sometimes, so I hope you can understand me. My 'porblem' is about the NZXT Phantom 820 because as you may know that case got a fan on the top (a big one) and I want to buy a H100i (for my processor) and some people said me "you can't do that 'cause the pull/push system will fail" So is that right or can I do that build without troubles?  And my other question is: the fans of the radiator (H100i) gonna push out the heat of inside the case and the heat of the processor or just the heat of the processor? Thank you very much for any advice, and I'll be glad to read any helpful comment.  *btw I got to say, I love your work in this chanel, I'd learn a lot of things, and I can say "I know what I want to build" Thanks!
+So you are pulling cool air through a hot radiator, heating it up, then pushing that heated air through another hot radiator thinking you're going to cool it (the radiator, not the air) down? I don't have green blood or pointy ears, but I think that sounds illogical. Am I missing something?
+Man these new product plugs are so good hahaha
+Would love to see an updated positive/negative case pressure. I'm currently running 2 140's unrestricted as intake and 2 140's in pull on a rad and one very slow 120mm on the back as exhaust. I don't really know if I'm getting positive pressure.
+@JayzTwoCents do talk about the 3 intake 5 exhaut fan with resistance! :D
+Nice ride you have there. I'm so freaking jealous! I only have a Honda CRV.
+use the smoke
+First? Hopefully not to be molested
+nice car
+I'm really glad that Jay, Jerry, Paul, the Tek Syndicate guys and the LTT guys are all friends. They're all the main reason I keep coming back to YouTube. I would love to have more watercooling tutorials in the future, as I may eventually decide to get into it. I don't really overclock though. I haven't really had a reason/the money to. Also, I really like Logan's music over your moderately/fast paced biking videos, just like you had at the end. You may have to borrow some more music from him for when you do more biking videos. EDIT: Jesus, I forgot about Kyle. I'M SO SORRY KYLE! :)
+So flow. Many air. Very learned.
+Do the video, and the information is not too much.
+but jay you forgot push/push and pull/pull
+when i opened this video i wasn't looking at my screen, so i totally thought i was watching the tek
+love this vid!!!! very informative jay..
+That moment when you are early, but you can't think of a dirty joke to make....
+I did similar testing, push and pull were within margin of error, push/pull showed a few degree difference with quite a bit more noise. Push or pull with a fan shroud was by far the quietest setup and came in-between  the performance of just push, pull and push/pull. I ended up going with a pull setup with a fan shroud
+i would always recommand having the rad directly on the case, as it is heavier. doesnt really matter but better safe than sorry, and its probably helping the vibration from the fans ^^
+If you swapped the push and pull in the white one, itll be ALOT easier to clean out the rads from dust :)
+Would love to see a visual demonstration of pressure/flow. And thanks for another great video.
+Can you make a video to explain about negative and positive pressure? I will appreciate greatly because I get confused with it. Nice video :)
+My case is having 2x 120mm IN and 3 Fans out (2x 140mm + 1x120mm). My frontal intake is being done by the Corsair H100i cpu cooler rad with double 120mm. The reason for mounting them + the radiator (Duhh) on the front is just because those fans at max RPM are loud as crap. So i am using a Fan controller (like jay) by software. I am using the one called SpeedFan, and does the job outstandingly good!
+I got my fan pushing air through the radiator as exhaust.   This is optimal for the airflow in my case!
+Damn Jay! Your looking great! Also, nice 370z! Sick car!
+Does Jay drive a 370z? I didn't know he was into imports and modified cars.
+why not do a push push or a pull pull?
+These ads are s funny
+That tan line tho... trolololol
+Good advice.  Nice job with the summary!
+How old are you?
+nice ride...
+The promo at the beginning was funny.
+you forgot/denied 1 topic.... dust!
+Hey Jay, I'm wanting to do a Logitech Blue themed build, so far I know I'm going to use the NZXT H440 in blue, but I don't really know of many light blue themed mobo's or RAM. I'm thinking of throwing in a couple of water cooled 980ti's using the little mod you showed on an EVGA probridge to keep everything blue and black. Any advice you can offer would be greatly appreciated
+Would love to see how to accomplish positive pressure with more exhaust than intake fans
+at 4:48 it looks like your top mounted fans are on backwards, creating a pull configuration not a push configuration. .-.
+This video helps me and my folks at B.
+jay you look like a starving african kid, go stuff your face with ice cream
+Your wathercooling videos are amazing Jay !! Keep it going :D
+nice car Jay
+I commented on one of your videos but you no respond to me ;~;
+That intro dude... I wish you do for others. sigh
+To borrow a phrase from Jerry, mobo fan headers are for poor people :)  Aquaero is worth every penny if running more than 3 fans in a system.
+jizz man... i was looking at some of your old watercooling video and i didn't realize it but you've shrink like crazy. nice job
+Thank you Jay!  I agree that we need more of these educational videos, so please keep them coming!
+The Techsyndicate logo looks like FFVII...
+This is a good video. I would like to see a smoke video on the difference.
+God that commercial................ Please. Stop.
+Wow that 350z looks great!
+Smoke video
+Can the CPU fan connecter on the motherboard handle 6 fans? using a 1-6 fan splitter
+is it just me or does jay sometimes sound/act kind of douchy in his videos and his comments....I understand it might just be your personality, but just relax a little man. Criticism and people not understanding something is okay...
+I just finished watching the video from barnacule's channel from when he was at your house a year ago. And now i see this. Jay has lost so much weight!
+This was confusing, my 2 favorite tech channels. QUICK reproduce this prototype !
+Really appreciate how in depth you went in this video. Hope to see an air flow video that is just as informative.
+@JayzTwoCents Hey M8 I had a question I bought a couple of Cougar Vortex PWM fans and I wanted to mount them horizontally someone told me not to do that because they are hydrodynamic bearings I dunno what to do help?
+I have 2 fans in front of my case pulling air in and 2 on top pushing out through a closed loop rad. then one pushing out the exhaust vent. My rig tends to get a little hotter than id like when running some games on ultra. Probobly going to add 2 more fans in front with more pull and 2 on side pushing out
+i like to use the push,push config, cause im soo l33t
+and dual push?  is it necessary? esp with the case of the corsair 80i's?
+it was great info and not to much.or hard to fallow. good job
+How would build work with two radiators as exhaust? How would intake work? Can it be done that it works that both rads are same setup?
+Link for the open air case video?
+Best push/pull fans video on youtube! Helped me a lot about my next build man, tha ks a lot! I'm about to do a white theme build in a matx case amd will use EXACTELY the same radiators that you used in this video (PERFORMANCE PCS painted radiators).
+Jay, turn on V-Sync for your intro.
+I prefer pull, easier to clean.
+Yeah, please do a video on case air flow. I'm still racking my brain trying to figure out how to do positive airflow in a few cases where there just aren't enough intake fans to match the exhaust fans, but every exhaust fan has a radiator.
+linus also has a pretty solid video on this, involving dust as well
+I've noticed since you quitted your last job, your eyes are much less irritated. Must feel good not having to be ALL day in front of a screen! :)
+Smoke machine :D
+Very good video ! I like these how to's / let me explain type videos .
+@5:31 allah the radiator?
+Push or pull is the same, but what about HP fans in Push VS AF in Pull. If you go in Pull inside the case, maybe AF fans are better than HP fans
+Great vid Jay, learning loads from your channel before do my first water cooled build. Love those commercials you're doing with CoconutMonkey. Humour and info always a good mix.
+smoke test would be great
+LMAO!....that Tek Syndicate intro. Great stuff Jay, keep up the good work.
+Wow. Dat NissanZtwoCents... I know this is a tech channel but man I'd love to see a video of that car!
+Can I do a push / pull exhausting through the front of the case? Or would that create a large amount of negative pressure? I'm using an NZXT S340 with 1 exhaust out the back and one intake from the top.
+What car do you drive?!
+You should do the thing with the smoke.. it'll be really cool and it's really good example
+do a setup with these parts pls http://pcpartpicker.com/p/BqMr8d
+at first i was like oh snap jayztwocents making a gamer online series, sweet! then it turned into a commercial... my day is now ruined!!
+that's got to be the best advert I have ever seen xD
+Top quality as always. Thanks for sharing your knowledge with us ??
+did you guys know he was raped in prison? by 20 black guys lol #gangbang
+This was a really great informative video. It all made perfect sense :-)
+Isn't a pull setup more practical since you don't have to remove the fans to clean the radiator?
+adding a pull config on my 480 rad dropped 14c on my GPU.. i definately go with PUSH PULL i do have a double thick 60mm RAD though.
+Hey jay I wanted to ask, you said there is no difference between push or pull, but is there a difference between using the the radiator fans as intake fans or exhaust fans? For example will i get better cooling performance from my CPU water cooler if it is taking in cool air from the front or would i get better cooling performance if the CPU cooler used the air in the case to pass through the radiator or would there not be a difference. I assume it would get better performance using cooler air but I just wanted to make sure. Thank you
+JAYYYY I LOVED THE INTRO
+learn more about radiators and fans today. hope you tackle a full cleaning of the loop someday or might have missed it..
+What software do you use to control fan speeds?
+Sweet Z car Jay!
+What about dust accumilation in a radiator?
+It is better to have more fresh cool air coming in than more exhaust fans. My current setup has 2x140mm intake, 2x120mm in take, and 3x140mm exhaust.
+If you have pwm fans you have splitters that take the pwm signal from the motherboard and power from molex (i love those splitters!!)!!!!
+that your 350z?
+Wow Jay! You're looking great! You can definitely see your face thinning! Keep up the great work!
+I'd like to see the DIY wind tunnel testing
+You should just do a full series of water cooling guides/tips so we can reference which ever video corresponds to the part of the computer we are wanted to set up for a loop if that makes sense lol. Anyways I love these kinds of videos because I'm saving up for a build and I'll have some knowledge before even picking out the parts, and you should also include your personal preferences when it comes to trusted brands parts etc. since someone like me, who has only knowledge for other people experience, knows little about the little details you learn from actually going through this whole process.
+i thought u were supposed to use fractal fans
+fuck off with the tek mono songs... have your own style ffs
+Perfect, I've literally got a new cooler being delivered in a few hours haha
+I have a question. Is there a big difference if I have my PC on carpet versus having it on a desk? Do I risk shorting out any components because the PC is on carpet?
+You should talk about how using airflow fans seems to be efficient enough for push setups only rather than static favoured fans. I personally use cougar airflow fans for my rads on a push only configuration. Its seems to cool perfectly fine.
+i want to push my pull so my postif presure doesnt give negatif reaction
+Jay, the intro and intro music is awesome
+But Jay, what about push/push configurations, or pull/pull? :P
+If I get a phanteks enthroo luxe, I have 2 120mm pulling air through the front then have a rad up top 420mm with 3 fans visible and 3 in the fan compartment I will have a very negative air pressure, but will it matter? Just wondering as trying to find a solution and not getting anywhere I just want it to look aesthetically pleasing!
+Can you go over fittings and types of fittings.
+that 350z
+Best commercial ever
+Please do more videos like this, please!! :)    Love coming here to learn.  :)
+Jay, could you do something like this but on a case with restricted airflow like the NZXT H series? How much that would impact on the cooling performance and that kind of stuff? :P
+Normally, I don't like ads. But you make them really entertaining! I actually thought they were part of the video. And I found a way to make push/pull look good. On my case (Corsair 780T) there's enough room to put fans on the top below the fan filter, but above the inside of the case (if that makes sense). The same for the front of the case. So, I have Noctua NF-F12 industrials on push pull for my 2 360mm radiators.
+Your new car looks great man, good choice!
+I'd love to see the air pressures with smoke!
+You didn't reply to my tweet. :(
+"push pull,i don't know if you understand this one is hard" you killed me xD
+First comment
+Instead of putting the fans on the opposite side of my 240mm radiator, I just flipped them over to a pull config on the same side, leaving my radiator in between the case and fans. That way, when the day comes that I have to clean my rad, the majority of the dust will be on top of the radiator and not in between my fans and rad, so basically I can clean it without removing my fans... My config is a 230mm on the front, intake. A 230mm on the side, intake. Two 120mm fans intake through my radiator, and a 140mm exhaust fan on the rear, keeping plenty of positive pressure.
+please do the smoke thing
+I would love to see a GPU reference card used in a case with smoke.
+jay why are u loosing so much weight? and what speed do you recommend for fans.
+Loving the intros.
+It amazes me that you even have to make this video. It all seems like common sense but nice video anyways.
+Damn Jay, no homo but your looking lean man.
+It's also good to note that when using multiple rads, you probably want all the rads going the same direction.  Example:  you don't want one rad in taking from outside and the other in taking from the inside.  The result would be: the heat from one rad going into the other rad.  It's best to have all the rads venting out or in, but all the same.  Additionally, as Jay mentioned near the end of the video, you want to have a little bit of air pressure in the flow.  Example:  All the case fans intake air which is then all vented out radiators.  Additionally, it's probably best to have the rads vent out rather than in, so the other components get fresh air, rather than warm air from the rads.
+Damn that Z looked nice.
+You, Paul, and Kyle have the ad game on lock. lol
+Yes more fan videos. With and without radiators at the front and at the top and vice versa. Thanks! 301 club signing out!
+LOL when I started the video, I was confused on when did I click on a TEK SYNDICATE video. I swore it said Jays Two Cents at the bottom!?!?!
+Oh mah gawd, dat 350.
+I'm a FAN of that new ad... No? Alright I'll go cry in the corner of shame ;-;
+Useful video thanks Jay!
+Hi !!
+i can't stop staring at the loose skin on your right arm
+Linus did this already. If I recall, the only consistant difference he found was having an SP fan on push and an AF fan on pull but it's not worth the thickness considering the temp drop. Also.... I'm sorry Jay.  I'm not trying to be mean, but I have to ask.  Can you fly yet?
+Hahahahaahhahaha this fucking intro hahahahahahahaha oh my god haaha so so so so good jay your freaking awesome!!!
+Great video! Thanks for clarifying when push-pull is useful. The only other information on the topic that I'd heard was that specialized high SP fans essentially removed the need to do push-pull. I'd definitely like to see smoke/incense demonstrations on Skunk Works in a future video.
+The intro with tek syndicates music and play on their intro graphics made me lol it actually fits very well. Maybe you should see if Logan could design some of your own intro music in that style. As someone else said that music fits very well with most tech channels here on YouTube. Good video jay, also digging the ads
+Dat commercial at the beginning doe.
+Yes, please cover case pressure
+PLEASE DO THOSE DEMONSTRATIONS WITH sKUNKWORKS AIRFLOW!!
+Is Jay part of the syndicate now? :D
+kek syndicate
+NEW INTRO LOVE IT IM AT BBBBBBBBBBBBBB
+can you do a video on overclocking for beginners ?
+@JayzTwoCents  I really like this type of videos always learning something new, keep on going in this direction please :D
+I would love to see more on the Skunkworks airflow balancing. It's a question I've been meaning to ask as I'm planning my own SMA8 build and I want to understand better the balancing issues I'm having in my planning and how I can consider solving them, and Skunkworks would be a great example.
+Creative just creative, like the ad xD
+I usually go with pull, I'd rather look at the radiator than the fan.
+the only difference from a practical standpoint that (at least in my experience) I feel is important is Dust collection. Now this is nothing to do about positive/negative pressure and mainly about Rads in cases that have little to no dust filters. Running PULL set-ups makes clean up easier with a vacuum while PUSH configs I found i need to remove the fans before I can get a good clean up going with the vac.  To put in a different perspective I found that dust accumulates more between Rad/Fans in a PUSH vs PULL. again this was from my experience and your's may vary. Just sharing shit I had to deal with.
+@JayzTwoCents YES PLEASE make the Pos Airflow Demo
+would a single 360mm rad be adequate for a stock amd 8320 and a gtx 970?
+I'm a big "fan" of these videos :D
+Let's please see some mod videos. Like acrylic polishing, cable sleeving (all types), acrylic bending (sheets not tubing), painting heatsinks, custom acrylic panels for windows and motherboard trays, and just things like that. You don't really see those types of videos and people don't try it as they don't know where to start.
+When you painted your mobo heatsinks did you see a temp difference if so by how much. I'm looking to paint my mobo chip set heatsinks and am not sure if it will hurt my temps to the point of poor oc and temps.
+thanks Jay, this was helpful.
+LMAO coconut at the end.
+I really like the ads in the begining. it makes them interesting and makes me not want to just skip over it like I do for most channels. Keep up the great work on everything man!
+very informative. Thanks Jay
+Where's jay? I only see a skinny Guy. Keep up the very very good work!
+Alright, that was actually pretty good. GG.
+I just started building computers a couple of months ago and I get the concept of case pressure and fan orientation, but I'm not too sure when enough is enough. I have 6 intake fans(2 on a radiator) and one exhaust. I'm starting to think that I should flip my radiator over to make it an exhaust and push the radiator heat out of my case.
+I like these being broken down but a visual can create more ah hah moments.
+Personally feel push pull and just the direction of airflow is sometimes over blow. And the difference is not big. I personal run all intake pull for easy rad cleaning and one rear exhaust.
+HAHahah
+I've got a perfect idea. Jay and Jerry 2016 Jerry can be the vice president :) or, for a first you can have co-presidents instead of a vice
+Jay what about the heat that the front rad dumps inside the case and the top RAD picks up.
+Jayz Schwarzenegger is that you? Nice car btw, keep up the good work ;)
+how about a video on how to sleeve psu cables?
+You could have said Bravo, but hay what do i know (not a lot)
+Great info.. I have learned a lot about computer components because of your videos.   I want to do a custom water cooled pc when I build my gaming pc within the next year so any more videos would help me with that and I enjoy watching!!!
+Why so many radiators for Single CPU/GPU? I can see each 240mm running just cpu and the other for just gpu,but what will the third 120mm radiator accomplish?
+jay where is my r9 380 review i just bought the card!
+Definitely digging this video. I feel like this was the perfect amount of information for someone wanting to know basics about what the difference in configs is... And so what if it went a smidgen too quickly... It's a video, go back and re-listen if you missed something x-)
+Now make a tutorial of how to become rich enough to do a custom water loop.
+I'm enjoying my 16 radiator fans and 5 airflow fans. Great video again.
+That 350z jay holy shit
+I love these arguments because usually no one knows what they hell they are talking about. Good job, Jay. At least you are putting forth an effort to combat the stupid on this debate. Please do a video about dust and radiators.
+I though the promotion would have been get better headset/headphone
+Thats one nice 370, now you just need twin turbo and amuze bodykit T_T
+Well done and thx!
+Yes please, NCIX did this already, but I would also like to see your version. You are a good teacher .
+Damn bro ya lost a lot of wait!
+positive air preassure video pls :D
+I just want to see the smoke demonstration
+I don't understand this very well but wouldn't it be really bad to bring the hot air from the radiator into the case? I thought the point of water cooling was to cut out heat in the case and remove it directly. PS I have only used air cooling systems.
+Do another video this one was great m8 r8 8/8
+awesome ad Jay!
+Logan will hit you with a copyright strike for using his music, won't he?
+dat car do <3_<3
+Nice car! And keep up the good work!
+That 350z is clean! I like it very much, congrats for the build!
+Ey Jay, So what would you recommand? Fans with high RPM to run them at a low speed or buy fans with a low rpm that will run on that RPM. Thx for the vid man!
+That will great to see! Demo demo!!
+Can you example more on the positive air pressure inside the case please?
+Hey @JayzTwoCents, what if i have a push/pull config with different fans, for example, a good SP one pushing the air, and a good AF one pulling the air, does this affect the flow or anything similar?
+Didn't know what Tek Syndicate was, So I went over to their website from the link, saw an article talking about PC gaming sales going on currently. I now own Titanfall.
+I'm looking to do a simple AIO 120mm CoolerMaster in my small fractal Design core 1,000 case, and the only place I have for the cooler is front, and the back only has a 92mm exhaust fan, so should I go with just a pull, or a push pull as I'll have the space sense it's open long as the cables, and water cooling tubes will reach. my AMD APU which I'm trying to get down into the 30's for little money as I can get away with.
+I personally did not like the intro, but the video itself was great.
+IS THAT A NISSAN?!? I want it * o *
+I personally prefer pull, this is because it is much easier to clean the dust off and that I like to see the sexy black radiator fins. Also I have all my rads as exhausts (280 and 120) as I like to draw all the hot air that is created by radiators away from the rest of my components and since I prefer pull due to aesthetics and ease of maintaining the beauty the only place for me to mount a radiator is as exhaust.
+I use their music in my videos too, love it
+Next thing you will see is that syndicateproject will join TekSyndicate :P
+What about push-push and pull-pull?
+MOAR!!!! PLZ
+living the 370z life damn....:D
+Whats headphones are you using?
+man i had to pause the video just to say that you are looking great...i've only been subbed since January, and the change is ridiculous. keep it up bro :)
+The theme music made me feel like I was watching Tek syndicate
+enjoyed this vid, might not be cool as some of the latest stuff, however go back to your old ones and they where very educational. good job.
+Was that video about design or efficiency?
+yea jay, do the smoke for skunkworks pleeez
+The pull method is easier to clean the radiator often.
+I am possibly going to be doing a new PC build in a few months, the room the pc is going to be in is small with a lot of sunlight. I will also be using it up to 12 hours a day... would you recognmend water cooling even if I am not going to overclock anything? I live in the UK, so it's not the hottest place.
+This ad at the beginning was awesome :D
+Interesting point to take on board about the reduce flow ensuring positive pressure good vid
+Wtf? Jay looks like a new person
+I still dont get it, explain again?
+Ahaha he deleted the guy that was first. Ahaha
+THAT INTRO AHAHAHAHHAHA
+Good video!  Very nice to see someone simply explain that the difference is negligible between the two and it is more about aesthetics.  I see you point about the number of fans, but I'm wondering how can you best check the pressure in your case?   I have 7 intake fans and 4 outake fans.  The difference is that the four intake on the bottom are going through an 80mm radiator while the 4 outake are going through a 30mm radiator.  The fans for the outtake spin faster than the intake as well.  Without a specific way to measure I was assuming this was positive air pressure within the case but I'm now wondering if i should amp up the fans on the larger radiator. SO what is an easy way to check whether you have negative or positive air pressure within a case?
+Really like your videos Jay, but the commercials at the beginning are getting worse and worse...
+Can u build me a pc if always wanted to build one but my family is on poor side just asking don't take offence
+anyone have the corsair c70? im thinking of getting a static pressure fan to put in front and move one of the existing fans on top
+Under 301 club
+Jay, you look amazing! I just built my first system (below), much inspired by you. I am hoping to make a watercooled system in the future with both cpu and gpu in one or separate loops. Hopefully in a smaller case than my current full tower for college (ie easy transportation). Intel i7 5820K (no OC yet) Zotac 970 AMP! Extreme Core Asus X-99 A USB 3.1
+good intro lol
+Hey man, I love your channel, You post great content, do you mind giving me some feedback on my build before I but it? http://pcpartpicker.com/p/bm6LNG Im looking to add led fans, sleeved led kit as well as an sli config on the future, is this power supply good enough or would i need something better?
+Like the ad, but...headphones :/
+Niice Car... ;D
+HOLY CHIZZLE-SWIZ YOU LOOKING SKINNY JAY! NICE WORK!
+Nice car jayz
+lol That Tek intro, the Fractal intro is nice too :D
+Technically the radiator can cool with no airflow as the fins will still radiate thermal energy - but it transfer nearly as much heat as it would if air was flowing over the surface of the rad.
+"Oh my god, finely" my reackshion before I even watched the vidoe XD
+Wow talk about a great intro! Funny, creative, and entertaining! This was a very interesting topic, I never knew fan/airflow directions had so much effect on the cooling. Great video!
+Under 301 club
+Dang Jay, you are looking hella good! Keep up the good work man!
+SWAG= Secretly We Are Gay
+hahahhaha loving the intro!
+i coulda swore that was a headphone ad.
+ok i LOVED that intro
+Jay350zTwoCents Now we know what the z is for.
+hy
+I did wanna go sleeping, but you have to upload a video, why jay? Wy u do dis?
+I liked the video because of 350Z, uh i mean because of the stuff you talked about in the video... yeeeaah
+Thanks Jay, this is something I've wanted to know for ages! central pahk
+Fractal should hire you for a TV comercial! :O
+69th viewer
+good tips!!
+WOO under 50 Club
+Nice
+first yay :))
+First denied! again...
